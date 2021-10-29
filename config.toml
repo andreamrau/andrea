@@ -1,4 +1,4 @@
-baseURL = "https://thirsty-johnson-5fa9ef.netlify.app/"
+baseURL = "https://andreamrau.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Andera Rau, PhD"
@@ -87,7 +87,7 @@ enableEmoji = true
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fab"
+    icon_pack = "fa"
     link = "mailto:andrea.rau@inrae.fr"
 
   [[params.social]]
@@ -159,12 +159,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Projects"
     title = "Projects"
-    url = "/projects/"
+    url = "/project/"
     weight = 1
   [[menu.header]]
     name = "Talks"
     title = "talks"
-    url = "/talks/"
+    url = "/talk/"
     weight = 2
   [[menu.header]]
     name = "Publications"
@@ -193,16 +193,16 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+#  [[menu.footer]]
+#    name = "Contact"
+#    title = "Contact form"
+#    url = "/contact/"
+#    weight = 2
+#  [[menu.footer]]
+#    name = "Contributors"
+#    title = "Contributors"
+#    url = "/contributors/"
+#    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
