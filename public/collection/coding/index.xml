@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/collection/coding/</link>
+    <description>Recent content in Coding on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/collection/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R software packages</title>
+      <link>https://andreamrau.netlify.app/collection/coding/packages/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/collection/coding/packages/</guid>
+      <description> rpl: Randomized pairwise likelihood method for complex statistical inferences, available at GitHub padma: Pathway deviation scores using multiple factor analysis, available at BioC maskmeans: Multi-view aggregation/splitting K-means clustering algorithm, available at GitHub coseq: Co-expression analysis of sequencing data, available at BioC ICAL: Model selection for model based clustering of annotated data, available at GitHub metaRNASeq: Meta-analysis of RNA-seq data, available at CRAN HTSDiff: Differential analysis for RNA-seq data, available at R-Forge HTSFilter: Filter for replicated high-throughput sequencing data, available at BioC HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models, available at CRAN ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks, available at CRAN  </description>
+    </item>
+    
+    <item>
+      <title>Shiny apps</title>
+      <link>https://andreamrau.netlify.app/collection/coding/shiny/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/collection/coding/shiny/</guid>
+      <description> Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility, available as a Shiny web app Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas, available as a Shiny web app Invest Astuces: An R/Shiny interactive web application for financial and real estate loan simulations, available as a Shiny web app  </description>
+    </item>
+    
+  </channel>
+</rss>

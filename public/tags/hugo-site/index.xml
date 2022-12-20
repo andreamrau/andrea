@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-site on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/tags/hugo-site/</link>
+    <description>Recent content in hugo-site on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A first post</title>
+      <link>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog\spoonful-series\01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
+beginning     middle     end     </description>
+    </item>
+    
+    <item>
+      <title>A second post</title>
+      <link>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog\spoonful-series\02-spoonful\index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>A third post</title>
+      <link>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog\spoonful-series\03-spoonful\index.markdown  Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
+ To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://andreamrau.netlify.app/project/applications/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/applications/</guid>
+      <description>My research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
+ Animal genomics applications     Plant genomics applications     Human genomics applications     </description>
+    </item>
+    
+    <item>
+      <title>Multi-omic data integration</title>
+      <link>https://andreamrau.netlify.app/project/integration/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/integration/</guid>
+      <description> Related software     Related publications     Talks     </description>
+    </item>
+    
+    <item>
+      <title>Network inference</title>
+      <link>https://andreamrau.netlify.app/project/networks/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/networks/</guid>
+      <description> Related software     Related publications     </description>
+    </item>
+    
+    <item>
+      <title>RNA-seq co-expression</title>
+      <link>https://andreamrau.netlify.app/project/coexpression/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/coexpression/</guid>
+      <description> Related software:     Related publications:     Talks:     </description>
+    </item>
+    
+    <item>
+      <title>A Spoonful of Hugo</title>
+      <link>https://andreamrau.netlify.app/blog/spoonful-series/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/spoonful-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Scaffold</title>
+      <link>https://andreamrau.netlify.app/blog/css-grid-scaffold/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Built-in Contact Form</title>
+      <link>https://andreamrau.netlify.app/blog/built-in-contact-form/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/built-in-contact-form/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+  </channel>
+</rss>

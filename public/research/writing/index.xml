@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/research/writing/</link>
+    <description>Recent content in Writing on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/research/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peer-reviewed articles</title>
+      <link>https://andreamrau.netlify.app/research/writing/articles/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/research/writing/articles/</guid>
+      <description>Rau, A. (2021) Cooking up knowledge from big data using data science. Frontiers in Young Minds, 9:632923. 📄 🔄 🗣 🔗 💻
+  Mollandin, F., Rau, A., and Croiseau, P. (2021) An evaluation of the predictive performance and mapping power of the BayesR model for genomic prediction. G3, jkab225. 📄 🔄 💻
+  Sellem, E., Marthey, S., Rau, A., Jouneau, L., Bonnet, A., Le Danvic, C., Kiefer, H.</description>
+    </item>
+    
+    <item>
+      <title>Books, book chapters &amp; dissertations</title>
+      <link>https://andreamrau.netlify.app/research/writing/books/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/research/writing/books/</guid>
+      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit., Ed. L. Fontanesi.
+  Rau, A. (2017) Statistical methods and software for the analysis of transcriptomic data. HDR thesis, Université d’Évry Val-d’Essonne. HAL  PDF  Slides 
+  Martin-Magniette, M.-L., Maugis-Rabusseau, C. and Rau, A.</description>
+    </item>
+    
+    <item>
+      <title>Preprints</title>
+      <link>https://andreamrau.netlify.app/research/writing/preprints/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/research/writing/preprints/</guid>
+      <description>Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2021) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation&amp;hellip; Preprint  Code 
+  Cazals, A., Rau, A., Estellé, J., Bruneau, N., Coville, J.-L., Menanteau, P., Rossignol, M.-N., Jardet, D., Bevilacqua, C., Bed&amp;rsquo;Hom, B., Velge, P., and Calenge, F. (2021) Comparative analysis of the caecal tonsil transcriptome in two hen lines experimentally infected with Salmonella Enteritidis&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

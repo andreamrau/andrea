@@ -1,7 +1,7 @@
 baseURL = "https://andreamrau.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Andera Rau, PhD"
+title = "Andrea Rau, PhD"
 author = "Andrea Rau"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = "UA-133763862-2"
@@ -28,11 +28,11 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Andrea Rau"
+  orgLocal = "INRAE"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/sigle.ico"
+  logo = "/img/Logo-INRAE_Transparent.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = "grayscale"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -70,7 +70,7 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -157,35 +157,30 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Talks"
     title = "talks"
     url = "/talk/"
-    weight = 2
-  [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
     weight = 3
   [[menu.header]]
-    name = "Software"
-    title = "Software"
-    url = "/software/"
+    name = "Research"
+    title = "Research"
+    url = "/collection/"
     weight = 4
-  [[menu.header]]
-    name = "Advising & Teaching"
-    title = "Advising & Teaching"
-    url = "/advising/"
-    weight = 5
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 6
+    weight = 5
 
   # Configure footer
   [[menu.footer]]
@@ -207,7 +202,7 @@ enableEmoji = true
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
     disable = false
     anonymizeIP = true

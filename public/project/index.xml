@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing and recent research projects on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/project/</link>
+    <description>Recent content in Ongoing and recent research projects on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applications</title>
+      <link>https://andreamrau.netlify.app/project/applications/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/applications/</guid>
+      <description>My research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
+ Animal genomics applications     Plant genomics applications     Human genomics applications     </description>
+    </item>
+    
+    <item>
+      <title>Multi-omic data integration</title>
+      <link>https://andreamrau.netlify.app/project/integration/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/integration/</guid>
+      <description> Related software     Related publications     Talks     </description>
+    </item>
+    
+    <item>
+      <title>Network inference</title>
+      <link>https://andreamrau.netlify.app/project/networks/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/networks/</guid>
+      <description> Related software     Related publications     </description>
+    </item>
+    
+    <item>
+      <title>RNA-seq co-expression</title>
+      <link>https://andreamrau.netlify.app/project/coexpression/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/project/coexpression/</guid>
+      <description> Related software:     Related publications:     Talks:     </description>
+    </item>
+    
+  </channel>
+</rss>
