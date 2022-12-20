@@ -60,3 +60,9 @@ Then I added one `www` record of type `CNAME` for my GitHub Pages address, `MYUS
 ---
 
 As a third addendum to this post, I changed the font family and size per the nice instructions provided by [Alison Hill](https://discourse.gohugo.io/t/hugo-academic-theme-how-to-change-the-font-size/17294/2).
+
+--- 
+
+As a fourth (!) addendum to this post, I converted my whole website to hugo apero using [these instructions](https://hugo-apero-docs.netlify.app/). It took me forever to get it configured how I want (all posts about converting a previous hugo academic website were totally worthless to me), but I'm happy with it now! I now deploy to Netlify as described [here](https://hugo-apero-docs.netlify.app/start/deploy/), and I changed my custom Google domain to point to the new [website]() rather than my previous one using [these instructions](https://dev.to/lost_semicolon/netlify-and-google-domains-hm3).
+
+A major part of all of this is that I am now automating the lists of my publications, research projects, and students through the use of a Google sheets spreadsheet that I am parsing in custom R code. Maybe one day I will describe my process in another post!
