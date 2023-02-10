@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andreamrau.netlify.app/collection/advising/phd/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://andreamrau.netlify.app/collection/writing/articles/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/collection/advising/phd/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/collection/coding/packages/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/collection/writing/books/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/collection/advising/masters/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/collection/coding/shiny/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/collection/writing/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
@@ -20,128 +26,98 @@
     <loc>https://andreamrau.netlify.app/collection/coding/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/collection/advising/committees/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/collection/coding/shiny/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/collection/writing/books/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/collection/advising/masters/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/collection/writing/preprints/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/collection/advising/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/collection/advising/committees/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/collection/writing/preprints/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://andreamrau.netlify.app/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/collection/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/project/applications/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/categories/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/tags/hugo-site/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/project/integration/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/project/networks/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/project/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/categories/projects/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/collection/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/project/coexpression/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/tags/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/tags/style/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andreamrau.netlify.app/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2023-02-08-virtual/</loc>
+    <lastmod>2023-02-08T13:15:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-08T13:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/categories/seminar/</loc>
+    <lastmod>2023-02-08T13:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/series/a-spoonful-of-hugo/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/project/outreach/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/spoonful-series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-12-12-montpellier/</loc>
+    <lastmod>2022-12-12T15:45:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/categories/r/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-10-06-besan%C3%A7on/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/categories/conference/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/seedling/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-09-16-bordeaux/</loc>
+    <lastmod>2022-09-16T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-09-13-bordeaux/</loc>
+    <lastmod>2022-09-13T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-07-26-virtual/</loc>
+    <lastmod>2022-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/rmarkdown/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2022-02-07-virtual/</loc>
+    <lastmod>2022-02-07T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/css-grid-scaffold/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/talk/2020-07-02-virtual/</loc>
+    <lastmod>2020-07-02T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreamrau.netlify.app/blog/built-in-contact-form/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>https://andreamrau.netlify.app/blog/2019-year-in-review/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/blog/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/categories/year-in-review/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/talk/2019-12-09-brussels-belgium/</loc>
+    <lastmod>2019-12-09T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andreamrau.netlify.app/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
@@ -152,10 +128,30 @@
     <loc>https://andreamrau.netlify.app/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
+    <loc>https://andreamrau.netlify.app/categories/tips-and-tricks/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/blog/2019-ggplot2-tips-tricks/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/blog/2018-year-in-review/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/blog/2018-visual-cv/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/blog/2018-mapping-transparency/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/blog/2018-setting-up-website/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andreamrau.netlify.app/about/</loc>
   </url><url>
     <loc>https://andreamrau.netlify.app/contributors/</loc>
   </url><url>
     <loc>https://andreamrau.netlify.app/license/</loc>
+  </url><url>
+    <loc>https://andreamrau.netlify.app/series/</loc>
   </url>
 </urlset>

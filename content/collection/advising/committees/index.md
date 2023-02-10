@@ -1,11 +1,13 @@
 ---
-date: "2022-12-20"
+date: "2023-02-10"
 excerpt:
 subtitle: ""
 title: Advisory and evaluation Committee membership
 weight: 3
 ---
 
+- **Fatima Shokor** (2023-2026): PhD advisory committee member
+- **Ekaterina Tomilina** (2022-2025): PhD advisory committee member
 - **Bénédicte Wenden** (2023): HDR evaluation committee member (rapportrice)
 - **Ousmane Suwareh** (2022): PhD evaluation committee member (examinatrice)
 - **Fotini Panagou** (2022): PhD evaluation committee member

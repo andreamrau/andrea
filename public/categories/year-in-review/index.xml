@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Year in review on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/categories/year-in-review/</link>
+    <description>Recent content in Year in review on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/year-in-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2019 year in review</title>
+      <link>https://andreamrau.netlify.app/blog/2019-year-in-review/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2019-year-in-review/</guid>
+      <description>Well, here I am again, exactly one year after my last year-in-review post (apparently January 3 is peak procastination time when returning from the holiday break?).
+The past year represented a whirlwind of change for me and my family. In the first half of 2019, I wrapped up the final few months of my AgreenSkills+ sabbatical stay as a Visiting Scholar at UWM in Milwaukee, Wisconsin. My time at UWM was exciting, rich in new and continued collaborations, and a wonderful way to expand my research horizons while delving into the world of genomics applied to human health.</description>
+    </item>
+    
+    <item>
+      <title>2018 year in review</title>
+      <link>https://andreamrau.netlify.app/blog/2018-year-in-review/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-year-in-review/</guid>
+      <description>The start of a new year is always a nice time to look back and take stock of the past year, and look forward and set some goals for the coming year. I spent the entirety of 2018 as an AgreenSkills+ Visiting Scholar at UWM in Milwaukee, Wisconsin, which has been (and continues to be!) a very rich experience that has given me the chance to broaden my understanding of statistical genetics and genomics and expand my skill set.</description>
+    </item>
+    
+  </channel>
+</rss>

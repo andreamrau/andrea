@@ -2,7 +2,7 @@
 author: Andrea Rau
 categories:
 - projects
-date: "2022-12-20"
+date: "2023-02-10"
 draft: false
 excerpt: Co-expression analysis for RNA sequencing data
 layout: single

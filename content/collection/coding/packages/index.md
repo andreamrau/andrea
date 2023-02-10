@@ -1,5 +1,5 @@
 ---
-date: "2022-12-20"
+date: "2023-02-10"
 draft: false
 excerpt:
 subtitle:
@@ -7,7 +7,7 @@ title: Software packages
 weight: 1
 ---
 
-1. **BayesRCO**: Bayesian genomic prediction models for overlapping annotations [:link:](https://github.com/fmollandin/BayesRCO)
+1. **BayesRCO**: Bayesian genomic prediction models for overlapping annotations [:link:](https://github.com/FAANG/BayesRCO)
 1. **rpl**: Randomized pairwise likelihood method for complex statistical inferences [:link:](https://github.com/andreamrau/rpl)
 1. **padma**: Pathway deviation scores using multiple factor analysis [:link:](https://bioconductor.org/packages/padma/)
 1. **maskmeans**: Multi-view aggregation/splitting K-means clustering algorithm [:link:](https://github.com/andreamrau/maskmeans)

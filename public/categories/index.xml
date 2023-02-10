@@ -6,58 +6,49 @@
     <description>Recent content in Categories on Andrea Rau, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
+      <title>projects</title>
       <link>https://andreamrau.netlify.app/categories/projects/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theme Features</title>
-      <link>https://andreamrau.netlify.app/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <title>seminar</title>
+      <link>https://andreamrau.netlify.app/categories/seminar/</link>
+      <pubDate>Wed, 08 Feb 2023 13:15:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/categories/theme-features/</guid>
+      <guid>https://andreamrau.netlify.app/categories/seminar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evergreen</title>
-      <link>https://andreamrau.netlify.app/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <title>conference</title>
+      <link>https://andreamrau.netlify.app/categories/conference/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/categories/evergreen/</guid>
+      <guid>https://andreamrau.netlify.app/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>workshop</title>
-      <link>https://andreamrau.netlify.app/categories/workshop/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Year in review</title>
+      <link>https://andreamrau.netlify.app/categories/year-in-review/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/categories/workshop/</guid>
+      <guid>https://andreamrau.netlify.app/categories/year-in-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://andreamrau.netlify.app/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Tips and tricks</title>
+      <link>https://andreamrau.netlify.app/categories/tips-and-tricks/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meetup</title>
-      <link>https://andreamrau.netlify.app/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/categories/meetup/</guid>
+      <guid>https://andreamrau.netlify.app/categories/tips-and-tricks/</guid>
       <description></description>
     </item>
     

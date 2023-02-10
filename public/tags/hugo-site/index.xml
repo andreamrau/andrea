@@ -6,105 +6,55 @@
     <description>Recent content in hugo-site on Andrea Rau, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A first post</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
-beginning     middle     end     </description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\02-spoonful\index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
-    </item>
-    
-    <item>
-      <title>A third post</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\03-spoonful\index.markdown  Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
- To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    
-    <item>
-      <title>Applications</title>
+      <title>Applications in animal, plant, and human genomics</title>
       <link>https://andreamrau.netlify.app/project/applications/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/applications/</guid>
-      <description>My research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
- Animal genomics applications     Plant genomics applications     Human genomics applications     </description>
+      <description>My methodological research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
+ Animal genomics applications  Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2022) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation.</description>
     </item>
     
     <item>
       <title>Multi-omic data integration</title>
       <link>https://andreamrau.netlify.app/project/integration/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/integration/</guid>
-      <description> Related software     Related publications     Talks     </description>
+      <description>Related software rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🔗  Related publications  Mollandin, F.</description>
     </item>
     
     <item>
       <title>Network inference</title>
       <link>https://andreamrau.netlify.app/project/networks/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/networks/</guid>
-      <description> Related software     Related publications     </description>
+      <description>Related software ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  Related publications  Monneret, G., Jaffrézic, F., Rau, A., Zerjal, T. and Nuel, G. (2017) Identification of marginal causal relationships in gene networks from observational and interventional expression data. PLoS One, 12(3): e0171142. 🔗📄🔢
+  Monneret, G., Jaffrézic, F., Rau, A., Nuel, G. (2015) Estimation d’effets causaux dans les réseaux de régulation génique : vers la grande dimension.</description>
     </item>
     
     <item>
       <title>RNA-seq co-expression</title>
       <link>https://andreamrau.netlify.app/project/coexpression/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/coexpression/</guid>
-      <description> Related software:     Related publications:     Talks:     </description>
+      <description>Related software coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗  Related publications  Godichon-Baggioni, A., Maugis-Rabusseau, C. and Rau, A. (2018) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. Journal of Applied Statistics, 46(1):47-65.</description>
     </item>
     
     <item>
-      <title>A Spoonful of Hugo</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Outreach</title>
+      <link>https://andreamrau.netlify.app/project/outreach/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/</guid>
-      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
-    </item>
-    
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>https://andreamrau.netlify.app/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>https://andreamrau.netlify.app/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>https://andreamrau.netlify.app/project/outreach/</guid>
+      <description>👩‍🍳How to cook knowledge with #BigData? @andreamrau, researcher of @GeneSwitch project, explains why Big Data🖥️ is becoming important in #AnimalBreeding🧬
+😋Check out our tasty recipe and learn more: https://t.co/2YJiXcPFuD
+🇪🇺@CORDIS_EU #Genomics #Livestock pic.twitter.com/IrLKr0aucj
+&amp;mdash; GENE-SWitCH (@GeneSwitch) November 3, 2022  Nos chercheurs sont là pour vous tout le week end à @ENS_ParisSaclay pour la fête de la science #FDS2022 Ils vous parleront notamment de l’adaptation des animaux à la chaleur, la science des données et l’ADN.</description>
     </item>
     
   </channel>

@@ -2,7 +2,7 @@
 author: Andrea Rau
 categories:
 - projects
-date: "2022-12-20"
+date: "2023-02-10"
 draft: false
 excerpt: Combining multiple data views for holistic systems biology insights.
 layout: single
@@ -30,7 +30,7 @@ title: Multi-omic data integration
 
 1. **Rau, A.**, Manansala, R., Flister, M. J., Rui, H., Jaffrézic, F., Laloë, D., and Auer, P. L. (2022) Individualized multi-omic pathway deviation scores using multiple factor analysis. *Biostatistics*, 23(2):362-379. [:link:](https://dx.doi.org/10.1093/biostatistics/kxaa029)[:page_facing_up:](https://academic.oup.com/biostatistics/article/23/2/362/5882080?guestAccessKey=fad8d201-b50c-47e5-b4b9-326e5fe62567)[:arrows_counterclockwise:](https://www.biorxiv.org/content/10.1101/827022v2)[:input_numbers:](https://github.com/andreamrau/RMFRJLA_2019)[:computer:](https://bioconductor.org/packages/padma/)
 
-1. Mazo, G., Karlis, D., and **Rau, A.** (2022) A randomized pairwise likelihood method for complex statistical inferences. *NA*, Submitted.[:arrows_counterclockwise:](https://hal.archives-ouvertes.fr/hal-03126621)[:computer:](https://github.com/andreamrau/rpl)
+1. Mazo, G., Karlis, D., and **Rau, A.** (2021) A randomized pairwise likelihood method for complex statistical inferences. *NA*, Submitted.[:arrows_counterclockwise:](https://hal.archives-ouvertes.fr/hal-03126621)[:computer:](https://github.com/andreamrau/rpl)
 
 1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2020) Multi-view cluster aggregation and splitting, with an application to multi-omic breast cancer data. *Annals of Applied Statistics*, 14:2, 752-767. [:link:](https://dx.doi.org/10.1214/19-AOAS1317)[:page_facing_up:](https://projecteuclid.org/euclid.aoas/1593449324)[:input_numbers:](https://github.com/andreamrau/maskmeans)
 

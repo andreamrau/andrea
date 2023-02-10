@@ -1,11 +1,13 @@
 ---
-date: "2022-12-20"
+date: "2023-02-10"
 draft: false
 excerpt:
 subtitle: ""
 title: Peer-reviewed articles
 weight: 1
 ---
+
+1. Noël, A., Dumas, C., Rottier, E., Beslay, D., Costagliola, G., Ginies, C., Nicolè, F., **Rau, A.**, Le Conte, Y., and Mondet, F. (2023) Volatolome of the honey bee (Apis mellifera) worker brood: from egg to emergence. *PLoS ONE*, In press.
 
 1. Mollandin, F., Gilbert, H., Croiseau, P., and **Rau, A.** (2022) Accounting for overlapping annotations in genomic prediction models of complex traits. *BMC Bioinformatics*, 23:65. [:link:](https://dx.doi.org/10.1186/s12859-022-04914-5)[:page_facing_up:](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04914-5)[:arrows_counterclockwise:](https://www.researchsquare.com/article/rs-1366477/v1)[:computer:](https://github.com/fmollandin/BayesRCO)
 

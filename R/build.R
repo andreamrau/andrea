@@ -7,17 +7,18 @@ library(googlesheets4)
 library(ComplexHeatmap)
 library(dplyr)
 library(circlize)
+library(grDevices)
 gs4_deauth()
 
-file.copy(from = "C:/Users/arau/Documents/GitHub/CV/Rau_Andrea_CV.pdf",
-          to = "C:/Users/arau/Documents/GitHub/andrea/content/about/Rau_Andrea_CV.pdf")
-file.copy(from = "C:/Users/arau/Documents/GitHub/CV/visual-CV/Rau_Andrea_visual-CV.png",
-          to = "C:/Users/arau/Documents/GitHub/andrea/content/about/Rau_Andrea_visual-CV.png")
+file.copy(from = "C:/Users/araul/Documents/GitHub/CV/Rau_Andrea_CV.pdf",
+          to = "C:/Users/araul/Documents/GitHub/andrea/content/about/Rau_Andrea_CV.pdf")
+file.copy(from = "C:/Users/araul/Documents/GitHub/CV/visual-CV/Rau_Andrea_visual-CV.png",
+          to = "C:/Users/araul/Documents/GitHub/andrea/content/about/Rau_Andrea_visual-CV.png")
 
 ## Graphics --------------------------------------------------------------------
 remake_hex <- FALSE
 if(remake_hex) {
-    base <- "C:/Users/arau/Documents/GitHub/andrea/content/project/"
+    base <- "C:/Users/araul/Documents/GitHub/andrea/content/project/"
     ## Applications project hex
     imgurl <- paste0(base, "applications/applications_illustrate.png")
     sticker(imgurl, package="", p_size=20, s_x=1, s_y=1, s_width=.7,
@@ -56,17 +57,17 @@ ht2 = Heatmap(mat2[,1:6], show_heatmap_legend = FALSE, show_column_names = FALSE
               show_row_names=FALSE, col=col_fun2)
 ht3 = Heatmap(le, show_heatmap_legend = FALSE, show_column_names = FALSE,
               show_row_names=FALSE, col= col_fun3)
-png("C:/Users/arau/Documents/GitHub/andrea/static/img/featured.png",
+png("C:/Users/araul/Documents/GitHub/andrea/static/img/featured.png",
     width = 600, height = 400)
 ht1 + ht2 + ht3
 dev.off()
 
-jpeg("C:/Users/arau/Documents/GitHub/andrea/content/blog/sidebar-listing.jpg",
+jpeg("C:/Users/araul/Documents/GitHub/andrea/content/blog/sidebar-listing.jpg",
     width = 500, height = 150)
 ht1[1:5,] + ht2[1:5,]
 dev.off()
 
-jpeg("C:/Users/arau/Documents/GitHub/andrea/content/collection/featured-sidebar.jpg",
+jpeg("C:/Users/araul/Documents/GitHub/andrea/content/collection/featured-sidebar.jpg",
      width = 500, height = 150)
 ht1[6:10,] + ht2[6:10,]
 dev.off()
@@ -135,7 +136,7 @@ weight: 1
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/writing/articles/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/writing/articles/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Books ----------------------------------------------------------------
@@ -188,7 +189,7 @@ weight: 2
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/writing/books/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/writing/books/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
 
@@ -244,7 +245,7 @@ weight: 3
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/writing/preprints/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/writing/preprints/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
 
@@ -272,7 +273,7 @@ weight: 1
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/coding/packages/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/coding/packages/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Shiny apps ----------------------------------------------------------------
@@ -294,7 +295,7 @@ weight: 2
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/coding/shiny/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/coding/shiny/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## PhD Advising ----------------------------------------------------------------
@@ -316,7 +317,7 @@ weight: 1
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/advising/phd/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/advising/phd/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Master's Advising ----------------------------------------------------------------
@@ -338,7 +339,7 @@ weight: 2
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/advising/masters/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/advising/masters/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Committee Advising ----------------------------------------------------------------
@@ -358,7 +359,7 @@ weight: 3
 
 {paste0(tmp$full, collapse = "\n")}')
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/collection/advising/committees/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/collection/advising/committees/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Talks -------------------------------------------------------------------
@@ -367,7 +368,7 @@ weight: 3
         create_name <- paste0(choose$date, "-", choose$location) %>%
             gsub(pattern=" ", replacement="-") %>%
             gsub(pattern=",", replacement="")
-        suppressWarnings(dir.create(paste0("C:/Users/arau/Documents/GitHub/andrea/content/talk/",
+        suppressWarnings(dir.create(paste0("C:/Users/araul/Documents/GitHub/andrea/content/talk/",
                           create_name)))
         choose <- choose %>%
             mutate(date_full = ifelse(is.na(time_start), date,
@@ -419,7 +420,7 @@ links:
 
 ')
         write.table(tmp2,
-                    file = paste0("C:/Users/arau/Documents/GitHub/andrea/content/talk/",
+                    file = paste0("C:/Users/araul/Documents/GitHub/andrea/content/talk/",
                     create_name, "/index.md"),
                     quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
@@ -581,7 +582,7 @@ that can provide useful solutions in these areas.
 {paste0(tmp_human$full, collapse = "\n")}')
 
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/project/applications/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/project/applications/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Multi-omic  -----------------------------------------------------------
@@ -656,7 +657,7 @@ title: Multi-omic data integration
 {paste0(tmp_integration$full, collapse = "\n")}')
 
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/project/integration/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/project/integration/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Network  -----------------------------------------------------------
@@ -727,7 +728,7 @@ title: Network inference
 {paste0(tmp_networks$full, collapse = "\n")}')
 
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/project/networks/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/project/networks/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 
     ## Coexpression  -----------------------------------------------------------
@@ -798,6 +799,6 @@ title: RNA-seq co-expression
 {paste0(tmp_rnaseq$full, collapse = "\n")}')
 
     write.table(tmp2,
-                file = "C:/Users/arau/Documents/GitHub/andrea/content/project/coexpression/index.md",
+                file = "C:/Users/araul/Documents/GitHub/andrea/content/project/coexpression/index.md",
                 quote=FALSE, row.names=FALSE, col.names=FALSE, fileEncoding = "utf8")
 }

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/categories/conference/</link>
+    <description>Recent content in conference on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Invited talk) Leveraging multi-omic data for integrative exploratory and predictive analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2022-10-06-besan%C3%A7on/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-10-06-besan%C3%A7on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Poster) A hierarchical Bayesian mixture model for predicting phenotypes from genomic data with prior biological information</title>
+      <link>https://andreamrau.netlify.app/talk/2022-07-26-virtual/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-07-26-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited keynote) Integrative and interactive analyses of multi-omics data</title>
+      <link>https://andreamrau.netlify.app/talk/2020-07-02-virtual/</link>
+      <pubDate>Thu, 02 Jul 2020 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2020-07-02-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) Individualized multi-omic pathway deviation scores using multiple factor analysis</title>
+      <link>https://andreamrau.netlify.app/talk/2019-12-09-brussels-belgium/</link>
+      <pubDate>Mon, 09 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2019-12-09-brussels-belgium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

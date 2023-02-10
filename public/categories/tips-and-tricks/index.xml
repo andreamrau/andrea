@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips and tricks on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/categories/tips-and-tricks/</link>
+    <description>Recent content in Tips and tricks on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/tips-and-tricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips and tricks for ggplot2</title>
+      <link>https://andreamrau.netlify.app/blog/2019-ggplot2-tips-tricks/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2019-ggplot2-tips-tricks/</guid>
+      <description>Like many (most?) users of the ggplot2 visualization package, I often find myself (re-)looking up how to do specific tasks. In an effort to streamline by Googling and avoid searching over and over again for solutions to the same issues, this post will gather together some of the assorted tips and tricks that I&amp;rsquo;ve recently looked up.
+Including an inset graphI found this tip here, using the cowplot package.</description>
+    </item>
+    
+    <item>
+      <title>Creating a visual CV</title>
+      <link>https://andreamrau.netlify.app/blog/2018-visual-cv/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-visual-cv/</guid>
+      <description>This is a short post to provide details on how I created the visual CV that is included on my homepage. I got the idea for doing this from a tweet from the awesome Mara Averick about an R package called VisualResume by Nathaniel Phillips:
+OMG, I love this! (I miss Breaking Bad so much)
+📦 &amp;quot;VisualResume: An R package for creating a visual resume&amp;quot; by @YaRrrBook https://t.co/ZNtbrU87Y4 #rstats pic.twitter.com/8KbI06QYKq</description>
+    </item>
+    
+    <item>
+      <title>Mapping transparency in ggplot2 to a continuous variable</title>
+      <link>https://andreamrau.netlify.app/blog/2018-mapping-transparency/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-mapping-transparency/</guid>
+      <description>tl;dr: Use I() to treat a numeric variable in a data.frame &amp;ldquo;as is&amp;rdquo; and avoid unintended conversion when mapping to transparency in a ggplot2 aesthetic.Today I ran into a ggplot2 plotting problem involving mapping the transparency aesthetic to a numeric variable &amp;ndash; this drove me crazy until I figured it out.
+Here&amp;rsquo;s the basic set-up: I wanted to plot a scatterplot of two variables, but have the transparency of the points be controlled by a third (numeric) variable.</description>
+    </item>
+    
+    <item>
+      <title>Setting up my website</title>
+      <link>https://andreamrau.netlify.app/blog/2018-setting-up-website/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-setting-up-website/</guid>
+      <description>I recently decided that I wanted to move my professional homepage from a free page set up on WordPress to GitHub Pages using blogdown by Yihui Xi.
+There were basically two reasons for this: (1) Because I only sprang for the free WordPress site, there are gigantic, ugly ads that appear on every single page. I only recently realized this as I was usually viewing my WordPress site while being logged on &amp;ndash; and apparently, the ads only appear for other people.</description>
+    </item>
+    
+  </channel>
+</rss>

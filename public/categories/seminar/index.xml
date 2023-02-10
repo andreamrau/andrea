@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seminar on Andrea Rau, PhD</title>
+    <link>https://andreamrau.netlify.app/categories/seminar/</link>
+    <description>Recent content in seminar on Andrea Rau, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Feb 2023 13:15:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incorporating biological information into genomic prediction models</title>
+      <link>https://andreamrau.netlify.app/talk/2023-02-08-virtual/</link>
+      <pubDate>Wed, 08 Feb 2023 13:15:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-02-08-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating multiple annotations in genomic prediction models</title>
+      <link>https://andreamrau.netlify.app/talk/2022-12-12-montpellier/</link>
+      <pubDate>Mon, 12 Dec 2022 15:45:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-12-12-montpellier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging multi-omic data for integrative exploratory, predictive, and network analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2022-09-16-bordeaux/</link>
+      <pubDate>Fri, 16 Sep 2022 09:30:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-09-16-bordeaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Poster) Differential network analysis of mixed-type data with copulae</title>
+      <link>https://andreamrau.netlify.app/talk/2022-09-13-bordeaux/</link>
+      <pubDate>Tue, 13 Sep 2022 17:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-09-13-bordeaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging multi-omic data for integrative exploratory, predictive, and network analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</link>
+      <pubDate>Mon, 30 May 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) A randomized pairwise likelihood method for complex statistical inferences</title>
+      <link>https://andreamrau.netlify.app/talk/2022-02-07-virtual/</link>
+      <pubDate>Mon, 07 Feb 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-02-07-virtual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

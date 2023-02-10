@@ -6,267 +6,231 @@
     <description>Recent content on Andrea Rau, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PhD &#43; Postdoc supervision</title>
-      <link>https://andreamrau.netlify.app/collection/advising/phd/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/collection/advising/phd/</guid>
-      <description>Dr. Smahane Chalabi (2021-2022, Postdoc): A diet x epigenetics study in pigs, GENE-SWitCH grant (with Elisabetta Giuffra and Sarah Djebali) Fanny Mollandin (2019-2022, PhD): Incorporating known functional annotations into Bayesian genomic prediction models (with Pascal Croiseau, co-funding from EU Horizon 2020 RIA grant GENE-SWitCH) Dr. Manuel Revilla Sanchez (2016, 3-month PhD Erasmus+ Learning Mobility): An integrative gene network analysis of the genetic determination of pig fatty acid composition (with Jordi Estelle and Yuliaxis Ramayo Caldas) Dr.</description>
-    </item>
-    
-    <item>
-      <title>A first post</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/01-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
-beginning     middle     end     </description>
-    </item>
-    
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peer-reviewed articles</title>
       <link>https://andreamrau.netlify.app/collection/writing/articles/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/articles/</guid>
-      <description>Rau, A. (2021) Cooking up knowledge from big data using data science. Frontiers in Young Minds, 9:632923. 📄 🔄 🗣 🔗 💻
-  Mollandin, F., Rau, A., and Croiseau, P. (2021) An evaluation of the predictive performance and mapping power of the BayesR model for genomic prediction. G3, jkab225. 📄 🔄 💻
-  Sellem, E., Marthey, S., Rau, A., Jouneau, L., Bonnet, A., Le Danvic, C., Kiefer, H.</description>
+      <description>Noël, A., Dumas, C., Rottier, E., Beslay, D., Costagliola, G., Ginies, C., Nicolè, F., Rau, A., Le Conte, Y., and Mondet, F. (2023) Volatolome of the honey bee (Apis mellifera) worker brood: from egg to emergence. PLoS ONE, In press.
+  Mollandin, F., Gilbert, H., Croiseau, P., and Rau, A. (2022) Accounting for overlapping annotations in genomic prediction models of complex traits. BMC Bioinformatics, 23:65. 🔗📄🔄💻</description>
     </item>
     
     <item>
-      <title>R software packages</title>
+      <title>PhD &#43; Postdoc supervision</title>
+      <link>https://andreamrau.netlify.app/collection/advising/phd/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/collection/advising/phd/</guid>
+      <description> Fanny Mollandin (2019-2022, PhD): Incorporating known functional annotations into Bayesian genomic prediction models (with Pascal Croiseau, co-funding from EU Horizon 2020 RIA grant GENE-SWitCH) Smahane Chalabi (2021-2022, Postdoc): A diet x epigenetics study in pigs, GENE-SWitCH grant (with Elisabetta Giuffra and Sarah Djebali) Manuel Revilla Sanchez (2016, 3-month PhD Erasmus+ Learning Mobility): An integrative gene network analysis of the genetic determination of pig fatty acid composition (with Jordi Estelle and Yuliaxis Ramayo Caldas) Gilles Monneret (2014-2018, PhD): Estimation of causal effects in gene networks from observational and intervention data (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012-2015, PhD): Clustering and network inference for RNA-seq data (with Gilles Celeux and Florence Jaffrézic)  </description>
+    </item>
+    
+    <item>
+      <title>Software packages</title>
       <link>https://andreamrau.netlify.app/collection/coding/packages/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/coding/packages/</guid>
-      <description> rpl: Randomized pairwise likelihood method for complex statistical inferences, available at GitHub padma: Pathway deviation scores using multiple factor analysis, available at BioC maskmeans: Multi-view aggregation/splitting K-means clustering algorithm, available at GitHub coseq: Co-expression analysis of sequencing data, available at BioC ICAL: Model selection for model based clustering of annotated data, available at GitHub metaRNASeq: Meta-analysis of RNA-seq data, available at CRAN HTSDiff: Differential analysis for RNA-seq data, available at R-Forge HTSFilter: Filter for replicated high-throughput sequencing data, available at BioC HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models, available at CRAN ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks, available at CRAN  </description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/02-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\02-spoonful\index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
-    </item>
-    
-    <item>
-      <title>Shiny apps</title>
-      <link>https://andreamrau.netlify.app/collection/coding/shiny/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/collection/coding/shiny/</guid>
-      <description> Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility, available as a Shiny web app Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas, available as a Shiny web app Invest Astuces: An R/Shiny interactive web application for financial and real estate loan simulations, available as a Shiny web app  </description>
+      <description> BayesRCO: Bayesian genomic prediction models for overlapping annotations 🔗 rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 metaRNASeq: Meta-analysis of RNA-seq data 🔗 HTSDiff: Differential analysis for RNA-seq data 🔗 HTSFilter: Filter for replicated high-throughput sequencing data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗 ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  </description>
     </item>
     
     <item>
       <title>Books, book chapters &amp; dissertations</title>
       <link>https://andreamrau.netlify.app/collection/writing/books/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/books/</guid>
-      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit., Ed. L. Fontanesi.
-  Rau, A. (2017) Statistical methods and software for the analysis of transcriptomic data. HDR thesis, Université d’Évry Val-d’Essonne. HAL  PDF  Slides 
-  Martin-Magniette, M.-L., Maugis-Rabusseau, C. and Rau, A.</description>
+      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit, Ed. L. Fontanesi.
+  Rau, A. (2017) Statistical methods and software for the analysis of transcriptomic data. HDR thesis, Université d’Évry Val-d’Essonne.📄🗣
+  Martin-Magniette, M.-L., Maugis-Rabusseau, C. and Rau, A. (2017) Clustering of co-expressed genes.</description>
     </item>
     
     <item>
-      <title>Master&#39;s interns &#43; short-term contract supervision</title>
+      <title>Research interns &#43; short-term contract supervision</title>
       <link>https://andreamrau.netlify.app/collection/advising/masters/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/advising/masters/</guid>
-      <description> Maxime Guilleton (2021, CDD (6 months)): Bioinformatics research engineer, LIPOMEC grant (with Mylène Delosiere) Alexandre Asset (2021, L2 internship): Inference of co-expression networks from intervention transcriptomic data (with Florence Jaffrézic and Denis Laloë) Solène Pety (2021, M1 internship): Knowledge transfer using multivariate gene expression projections onto a large-scale reference database (with Catherine Giauffret) Raphaëlle Momal-Leisenring (2017, M2 internship): Integrative statistical analysis of multi-omics data Frédéric Jehl (2017, M2 internship): Impact of heat stress on liver and blood transcriptomes of laying hens (with Tatiana Zerjal) Babacar Ciss (2016, M2 internship): Constructing predictive models for ovine production data (with Eli Sellem, Allice) Audrey Hulot (2015, M1 internship): Incorporating a priori biological knowledge into gene network inference from observational and intervention gene expression data (with Florence Jaffrézic) Meriem Benabbas (2015, M1 internship): Identifying differentially expressed genes from RNA-seq data using mixture models Marc Teissier and Chaoyu Dong (2014, M1 STV/EM-ABG internship): Power to detect significantly differential gene expression using RNA-seq data Rémi Bancal (2012, M2 internship): Gene network estimation by adaptive knockout experiments (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012, M2 internship): Gene network inference from RNA sequencing expression data (with Gilles Celeux and Florence Jaffrézic)  </description>
+      <description> Louis Carrel-Billiard (2023, M2 internship): Exploration of a hologenomic approach to account for host microbiota in genetic evaluations (with Mahendra Mariadassou) See Hyun Park (2022, M2 internship): Impact of nutritional supplement intervention on cognitive health networks (with Jean-Christophe Delpech and Charlotte Madore-Delpech) Maxime Guilleton (2021, 6-month CDD): Bioinformatics research engineer, LIPOMEC grant (with Mylène Delosiere) Alexandre Asset (2021, L2 internship): Inference of co-expression networks from intervention transcriptomic data (with Florence Jaffrézic and Denis Laloë) Solène Pety (2021, M1 internship): Knowledge transfer using multivariate gene expression projections onto a large-scale reference database (with Catherine Giauffret) Raphaëlle Momal-Leisenring (2017, M2 internship): Integrative statistical analysis of multi-omics data Frédéric Jehl (2017, M2 internship): Impact of heat stress on liver and blood transcriptomes of laying hens (with Tatiana Zerjal) Babacar Ciss (2016, M2 internship): Constructing predictive models for ovine production data (with Eli Sellem) Audrey Hulot (2015, M1 internship): Incorporating a priori biological knowledge into gene network inference from observational and intervention gene expression data (with Florence Jaffrézic) Meriem Benabbas (2015, M1 internship): Identifying differentially expressed genes from RNA-seq data using mixture models Marc Teissier and Chaoyu Dong (2014, M1 STV/EM-ABG internship): Power to detect significantly differential gene expression using RNA-seq data Rémi Bancal (2012, M2 internship): Gene network estimation by adaptive knockout experiments (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012, M2 internship): Gene network inference from RNA sequencing expression data (with Gilles Celeux and Florence Jaffrézic)  </description>
     </item>
     
     <item>
-      <title>A third post</title>
-      <link>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Shiny apps</title>
+      <link>https://andreamrau.netlify.app/collection/coding/shiny/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\03-spoonful\index.markdown  Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
- To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
+      <guid>https://andreamrau.netlify.app/collection/coding/shiny/</guid>
+      <description> Invest Astuces: An R/Shiny interactive web application for financial and real estate loan simulations 🌐 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🌐 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🌐  </description>
     </item>
     
     <item>
-      <title>Committee membership</title>
+      <title>Advisory and evaluation Committee membership</title>
       <link>https://andreamrau.netlify.app/collection/advising/committees/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/advising/committees/</guid>
-      <description> Ambre Giguelay (2021, PhD evaluation committee member (rapportrice)) Leila Khajavi (2021, PhD evaluation committee member (rapportrice)) Thibault Poinsignon (2021-2023, PhD advisory committee member) Nicolas Jouvin (2021, PhD evaluation committee member (rapportrice)) Lucile Broséus (2021, PhD evaluation committee member (rapportrice)) Wilfried Heyse (2020-2022, PhD advisory committee member) Antoine Leduc (2019-2022, PhD advisory committee member) Alyssa Imbert (2018, PhD evaluation committee member (rapportrice)) Frédéric Jehl (2017-2020, PhD advisory committee member) Valentin Voillet (2016, PhD evaluation committee member) Gabriel Guillocheau (2015-2018, PhD advisory committee member)  </description>
+      <description> Fatima Shokor (2023-2026): PhD advisory committee member Ekaterina Tomilina (2022-2025): PhD advisory committee member Bénédicte Wenden (2023): HDR evaluation committee member (rapportrice) Ousmane Suwareh (2022): PhD evaluation committee member (examinatrice) Fotini Panagou (2022): PhD evaluation committee member Océane Cassan (2022): PhD evaluation committee member (rapportrice) Camille Kergal (2022): PhD evaluation committee member (evaluatrice) Baber Ali (2021-2024): PhD advisory committee member Ambre Giguelay (2021): PhD evaluation committee member (rapportrice) Leila Khajavi (2021): PhD evaluation committee member (rapportrice) Thibault Poinsignon (2021-2023): PhD advisory committee member Nicolas Jouvin (2021): PhD evaluation committee member (rapportrice) Lucile Broséus (2021): PhD evaluation committee member (rapportrice) Wilfried Heyse (2020-2022): PhD advisory committee member Antoine Leduc (2019-2022): PhD advisory committee member Alyssa Imbert (2018): PhD evaluation committee member (rapportrice) Frédéric Jehl (2017-2020): PhD advisory committee member Valentin Voillet (2016): PhD evaluation committee member Gabriel Guillocheau (2015-2018): PhD advisory committee member  </description>
     </item>
     
     <item>
-      <title>Preprints</title>
+      <title>Preprints, submitted articles, and technical reports</title>
       <link>https://andreamrau.netlify.app/collection/writing/preprints/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/preprints/</guid>
-      <description>Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2021) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation&amp;hellip; Preprint  Code 
-  Cazals, A., Rau, A., Estellé, J., Bruneau, N., Coville, J.-L., Menanteau, P., Rossignol, M.-N., Jardet, D., Bevilacqua, C., Bed&amp;rsquo;Hom, B., Velge, P., and Calenge, F. (2021) Comparative analysis of the caecal tonsil transcriptome in two hen lines experimentally infected with Salmonella Enteritidis&amp;hellip;</description>
+      <description>Delosière, M., Bernard, L., Hurtaud, C., Guilleton, M., Viala, D., Rau, A., Bonnet, M. and Cebo, C. (2023) Protein signatures of spontaneous lipolysis and lipoprotein lipase activity in milk. Journal of ProteomicsSubmitted.
+  Duran Garzon, C., Chemin, C., Rau, A., Decaux, B., Sellier-Richard, H., Drouaud, J., Soubigou-Taconnat, L., Brunaud, V., Martin, M.-L., Palaffre, C., Rayon, C., Lourgant, K., Guénin, S. Gutierrez, L., Charcosset, A., Coursol, S., and Giauffret, C.</description>
     </item>
     
     <item>
-      <title>Applications</title>
+      <title>Applications in animal, plant, and human genomics</title>
       <link>https://andreamrau.netlify.app/project/applications/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/applications/</guid>
-      <description>My research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
- Animal genomics applications     Plant genomics applications     Human genomics applications     </description>
+      <description>My methodological research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
+ Animal genomics applications  Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2022) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation.</description>
     </item>
     
     <item>
       <title>Multi-omic data integration</title>
       <link>https://andreamrau.netlify.app/project/integration/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/integration/</guid>
-      <description> Related software     Related publications     Talks     </description>
+      <description>Related software rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🔗  Related publications  Mollandin, F.</description>
     </item>
     
     <item>
       <title>Network inference</title>
       <link>https://andreamrau.netlify.app/project/networks/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/networks/</guid>
-      <description> Related software     Related publications     </description>
+      <description>Related software ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  Related publications  Monneret, G., Jaffrézic, F., Rau, A., Zerjal, T. and Nuel, G. (2017) Identification of marginal causal relationships in gene networks from observational and interventional expression data. PLoS One, 12(3): e0171142. 🔗📄🔢
+  Monneret, G., Jaffrézic, F., Rau, A., Nuel, G. (2015) Estimation d’effets causaux dans les réseaux de régulation génique : vers la grande dimension.</description>
     </item>
     
     <item>
       <title>RNA-seq co-expression</title>
       <link>https://andreamrau.netlify.app/project/coexpression/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/coexpression/</guid>
-      <description> Related software:     Related publications:     Talks:     </description>
+      <description>Related software coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗  Related publications  Godichon-Baggioni, A., Maugis-Rabusseau, C. and Rau, A. (2018) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. Journal of Applied Statistics, 46(1):47-65.</description>
     </item>
     
     <item>
-      <title>Set up your social</title>
-      <link>https://andreamrau.netlify.app/blog/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Incorporating biological information into genomic prediction models</title>
+      <link>https://andreamrau.netlify.app/talk/2023-02-08-virtual/</link>
+      <pubDate>Wed, 08 Feb 2023 13:15:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
- site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+      <guid>https://andreamrau.netlify.app/talk/2023-02-08-virtual/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Style your site colors</title>
-      <link>https://andreamrau.netlify.app/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Outreach</title>
+      <link>https://andreamrau.netlify.app/project/outreach/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
+      <guid>https://andreamrau.netlify.app/project/outreach/</guid>
+      <description>👩‍🍳How to cook knowledge with #BigData? @andreamrau, researcher of @GeneSwitch project, explains why Big Data🖥️ is becoming important in #AnimalBreeding🧬
+😋Check out our tasty recipe and learn more: https://t.co/2YJiXcPFuD
+🇪🇺@CORDIS_EU #Genomics #Livestock pic.twitter.com/IrLKr0aucj
+&amp;mdash; GENE-SWitCH (@GeneSwitch) November 3, 2022  Nos chercheurs sont là pour vous tout le week end à @ENS_ParisSaclay pour la fête de la science #FDS2022 Ils vous parleront notamment de l’adaptation des animaux à la chaleur, la science des données et l’ADN.</description>
     </item>
     
     <item>
-      <title>Style your site typography</title>
-      <link>https://andreamrau.netlify.app/blog/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Incorporating multiple annotations in genomic prediction models</title>
+      <link>https://andreamrau.netlify.app/talk/2022-12-12-montpellier/</link>
+      <pubDate>Mon, 12 Dec 2022 15:45:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
-    </item>
-    
-    <item>
-      <title>An evergreen post</title>
-      <link>https://andreamrau.netlify.app/blog/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/evergreen/</guid>
-      <description>Rendering mathematical equations     Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown     In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:</description>
-    </item>
-    
-    <item>
-      <title>A campfire</title>
-      <link>https://andreamrau.netlify.app/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>Using panelsets</title>
-      <link>https://andreamrau.netlify.app/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
- Goodbye 💨 goodbye
-  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://andreamrau.netlify.app/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/talk/second-seedling/</guid>
+      <guid>https://andreamrau.netlify.app/talk/2022-12-12-montpellier/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Rmarkdown post</title>
-      <link>https://andreamrau.netlify.app/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <title>(Invited talk) Leveraging multi-omic data for integrative exploratory and predictive analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2022-10-06-besan%C3%A7on/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/rmarkdown/</guid>
-      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://andreamrau.netlify.app/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>https://andreamrau.netlify.app/talk/seedling/</guid>
+      <guid>https://andreamrau.netlify.app/talk/2022-10-06-besan%C3%A7on/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSS Grid Scaffold</title>
-      <link>https://andreamrau.netlify.app/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Leveraging multi-omic data for integrative exploratory, predictive, and network analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2022-09-16-bordeaux/</link>
+      <pubDate>Fri, 16 Sep 2022 09:30:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <guid>https://andreamrau.netlify.app/talk/2022-09-16-bordeaux/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Built-in Contact Form</title>
-      <link>https://andreamrau.netlify.app/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>(Poster) Differential network analysis of mixed-type data with copulae</title>
+      <link>https://andreamrau.netlify.app/talk/2022-09-13-bordeaux/</link>
+      <pubDate>Tue, 13 Sep 2022 17:00:00 +0000</pubDate>
       
-      <guid>https://andreamrau.netlify.app/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>https://andreamrau.netlify.app/talk/2022-09-13-bordeaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Poster) A hierarchical Bayesian mixture model for predicting phenotypes from genomic data with prior biological information</title>
+      <link>https://andreamrau.netlify.app/talk/2022-07-26-virtual/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-07-26-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging multi-omic data for integrative exploratory, predictive, and network analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</link>
+      <pubDate>Mon, 30 May 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) A randomized pairwise likelihood method for complex statistical inferences</title>
+      <link>https://andreamrau.netlify.app/talk/2022-02-07-virtual/</link>
+      <pubDate>Mon, 07 Feb 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-02-07-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited keynote) Integrative and interactive analyses of multi-omics data</title>
+      <link>https://andreamrau.netlify.app/talk/2020-07-02-virtual/</link>
+      <pubDate>Thu, 02 Jul 2020 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2020-07-02-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 year in review</title>
+      <link>https://andreamrau.netlify.app/blog/2019-year-in-review/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2019-year-in-review/</guid>
+      <description>Well, here I am again, exactly one year after my last year-in-review post (apparently January 3 is peak procastination time when returning from the holiday break?).
+The past year represented a whirlwind of change for me and my family. In the first half of 2019, I wrapped up the final few months of my AgreenSkills+ sabbatical stay as a Visiting Scholar at UWM in Milwaukee, Wisconsin. My time at UWM was exciting, rich in new and continued collaborations, and a wonderful way to expand my research horizons while delving into the world of genomics applied to human health.</description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) Individualized multi-omic pathway deviation scores using multiple factor analysis</title>
+      <link>https://andreamrau.netlify.app/talk/2019-12-09-brussels-belgium/</link>
+      <pubDate>Mon, 09 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2019-12-09-brussels-belgium/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -285,15 +249,65 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
       <guid>https://andreamrau.netlify.app/elements/</guid>
-      <description>Font Sizes   A A A A A A A A   6rem
-(96px) 5rem
-(80px) 3rem
-(48px) 2.25rem
-(36px) 1.5rem
-(24px) 1.25rem
-(20px) 1rem
-(16px) .875rem
-(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+      <description>Font SizesAAAAAAAA6rem
+(96px)5rem
+(80px)3rem
+(48px)2.25rem
+(36px)1.5rem
+(24px)1.25rem
+(20px)1rem
+(16px).875rem
+(14px)Type SamplesHead&amp;shy;lineSub&amp;shy;head&amp;shy;lineLevel 1 HeadingOne page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Tips and tricks for ggplot2</title>
+      <link>https://andreamrau.netlify.app/blog/2019-ggplot2-tips-tricks/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2019-ggplot2-tips-tricks/</guid>
+      <description>Like many (most?) users of the ggplot2 visualization package, I often find myself (re-)looking up how to do specific tasks. In an effort to streamline by Googling and avoid searching over and over again for solutions to the same issues, this post will gather together some of the assorted tips and tricks that I&amp;rsquo;ve recently looked up.
+Including an inset graphI found this tip here, using the cowplot package.</description>
+    </item>
+    
+    <item>
+      <title>2018 year in review</title>
+      <link>https://andreamrau.netlify.app/blog/2018-year-in-review/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-year-in-review/</guid>
+      <description>The start of a new year is always a nice time to look back and take stock of the past year, and look forward and set some goals for the coming year. I spent the entirety of 2018 as an AgreenSkills+ Visiting Scholar at UWM in Milwaukee, Wisconsin, which has been (and continues to be!) a very rich experience that has given me the chance to broaden my understanding of statistical genetics and genomics and expand my skill set.</description>
+    </item>
+    
+    <item>
+      <title>Creating a visual CV</title>
+      <link>https://andreamrau.netlify.app/blog/2018-visual-cv/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-visual-cv/</guid>
+      <description>This is a short post to provide details on how I created the visual CV that is included on my homepage. I got the idea for doing this from a tweet from the awesome Mara Averick about an R package called VisualResume by Nathaniel Phillips:
+OMG, I love this! (I miss Breaking Bad so much)
+📦 &amp;quot;VisualResume: An R package for creating a visual resume&amp;quot; by @YaRrrBook https://t.co/ZNtbrU87Y4 #rstats pic.twitter.com/8KbI06QYKq</description>
+    </item>
+    
+    <item>
+      <title>Mapping transparency in ggplot2 to a continuous variable</title>
+      <link>https://andreamrau.netlify.app/blog/2018-mapping-transparency/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-mapping-transparency/</guid>
+      <description>tl;dr: Use I() to treat a numeric variable in a data.frame &amp;ldquo;as is&amp;rdquo; and avoid unintended conversion when mapping to transparency in a ggplot2 aesthetic.Today I ran into a ggplot2 plotting problem involving mapping the transparency aesthetic to a numeric variable &amp;ndash; this drove me crazy until I figured it out.
+Here&amp;rsquo;s the basic set-up: I wanted to plot a scatterplot of two variables, but have the transparency of the points be controlled by a third (numeric) variable.</description>
+    </item>
+    
+    <item>
+      <title>Setting up my website</title>
+      <link>https://andreamrau.netlify.app/blog/2018-setting-up-website/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/blog/2018-setting-up-website/</guid>
+      <description>I recently decided that I wanted to move my professional homepage from a free page set up on WordPress to GitHub Pages using blogdown by Yihui Xi.
+There were basically two reasons for this: (1) Because I only sprang for the free WordPress site, there are gigantic, ugly ads that appear on every single page. I only recently realized this as I was usually viewing my WordPress site while being logged on &amp;ndash; and apparently, the ads only appear for other people.</description>
     </item>
     
     <item>
@@ -303,9 +317,9 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>https://andreamrau.netlify.app/contributors/</guid>
       <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
-   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+  Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+  Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+  Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
     </item>
     
     <item>
@@ -315,7 +329,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>https://andreamrau.netlify.app/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  </description>
+</description>
     </item>
     
   </channel>

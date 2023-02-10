@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  
+                           
+     
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.88.1" />
+<title>Setting up my website | Andrea Rau, PhD</title>
+
+
+<meta property="twitter:site" content="@andreamrau">
+<meta property="twitter:creator" content="@andreamrau">
+
+
+
+
+
+
+
+  
+    
+  
+<meta name="description" content="Moving from WordPress to blogdown (to apero)">
+
+
+<meta property="og:site_name" content="Andrea Rau, PhD">
+<meta property="og:title" content="Setting up my website | Andrea Rau, PhD">
+<meta property="og:description" content="Moving from WordPress to blogdown (to apero)" />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="https://andreamrau.netlify.app/blog/2018-setting-up-website/" />
+<meta property="og:locale" content="en">
+
+
+
+
+    
+        <meta property="og:image" content="https://andreamrau.netlify.app/blog/sidebar-listing.jpg" >
+        <meta property="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://andreamrau.netlify.app/blog/sidebar-listing.jpg" >
+    
+    
+  <meta itemprop="name" content="Setting up my website">
+<meta itemprop="description" content="I recently decided that I wanted to move my professional homepage from a free page set up on WordPress to GitHub Pages using blogdown by Yihui Xi.
+There were basically two reasons for this: (1) Because I only sprang for the free WordPress site, there are gigantic, ugly ads that appear on every single page. I only recently realized this as I was usually viewing my WordPress site while being logged on &ndash; and apparently, the ads only appear for other people."><meta itemprop="datePublished" content="2018-02-22T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2018-02-22T00:00:00+00:00" />
+<meta itemprop="wordCount" content="876">
+<meta itemprop="keywords" content="" />
+  
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-133763862-2', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="shortcut icon" href="/img/sigle.ico" type="image/x-icon">
+  <link rel="icon" href="/img/sigle.ico" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="/style.main.min.f72f5cc794fcc7b86cab520db152dc3ef55aea333df2e3496a4e1bac97849df2.css" integrity="sha256-9y9cx5T8x7hsq1INsVLcPvVa6jM98uNJak4brJeEnfI=" media="screen">
+  
+  
+  <script src="/panelset.min.078a92db9bd3228df502db3d9e0453c3cf3d910abe3f8deca0ad196c7071ad41.js" type="text/javascript"></script>
+  
+  
+  <script src="/main.min.87b8bc3638f41ea1fd41f332acc64b4dd3be1dc21037b1984d4c12dccf1f876f.js" type="text/javascript"></script>
+</head>
+<body>
+      <div class="grid-container single">
+<header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
+  <nav class="site-nav db dt-l w-100" role="navigation">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://andreamrau.netlify.app/" title="Home">
+      <img src="/img/Logo-INRAE_Transparent.png" class="dib db-l h2 w-auto" alt="Andrea Rau, PhD">
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About">About</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Projects">Projects</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="talks">Talks</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/collection/" title="Research">Research</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/blog/" title="Blog">Blog</a>
+      
+      
+    </div>
+  </nav>
+</header>
+
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Setting up my website</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Moving from WordPress to blogdown (to apero)</h4>
+        <p class="f6 measure lh-copy mv1">By Andrea Rau in <a href="https://andreamrau.netlify.app/categories/tips-and-tricks">Tips and tricks</a> </p>
+        <p class="f7 db mv0 ttu">February 22, 2018</p>
+
+      
+
+      </header>
+      <section class="post-body pt5 pb4">
+        <p>I recently decided that I wanted to move my professional homepage from a free page set up on 
+<a href="http://andrearau.wordpress.com" target="_blank" rel="noopener">WordPress</a> to 
+<a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using 
+<a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> by 
+<a href="https://yihui.name/en" target="_blank" rel="noopener">Yihui Xi</a>.</p>
+<p>There were basically two reasons for this: (1) Because I only sprang for the free WordPress site, there are gigantic, ugly ads that appear on every single page. I only recently realized this as I was usually viewing my WordPress site while being logged on &ndash; and apparently, the ads only appear for other people. Needless to say, I found this very unappealing, but am also not willing to pay a huge subscription fee. (2) I love coding in R, and do a lot of my analysis work in reproducible 
+<a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noopener">Rmarkdown</a> documents, and as such it seemed like it would be an easy move over to <code>blogdown</code> &ndash; this means I would be able to maintain my website in R, have a lot more flexibility and control over the look of my website, and avoid those ugly WordPress ads.</p>
+<p>To set up my new GitHub Pages website, I found the following two blogs to be extremely helpful:</p>
+<ul>
+<li>
+<a href="https://tclavelle.github.io/blog/blogdown_github/" target="_blank" rel="noopener">https://tclavelle.github.io/blog/blogdown_github/</a></li>
+<li>
+<a href="https://alison.rbind.io/post/up-and-running-with-blogdown/" target="_blank" rel="noopener">https://alison.rbind.io/post/up-and-running-with-blogdown/</a></li>
+</ul>
+<p>I basically went through the first link step-by-step to create my website. To summarize:</p>
+<ol>
+<li>I created a new repository for my blogdown source content.</li>
+<li>I installed Hugo using the <code>install_hugo()</code> function from <code>blogdown</code>.</li>
+<li>I built the template for the new site using `blogdown::new_site(theme = &ldquo;gcushen/hugo-academic&rdquo;, theme_example = TRUE).</li>
+<li>I changed the <code>config.toml</code> configuration file to set the <code>baseurl</code> to my GitHub URL using <code>baseurl = &quot;https://&lt;username&gt;.github.io/&quot;</code>, and I told blogdown which directory to place the rendered site in using <code>publishDir = &quot;../&lt;username&gt;.github.io&quot;.</code></li>
+<li>Finally, I can create new content using the <code>new_post()</code> and <code>new_content()</code> functions from <code>blogdown</code>.</li>
+<li>I can then render the site locally using <code>serve_site()</code>, and I can build the site using <code>build_site()</code>. After building the site and staging all changed files to both repsoitories, all that&rsquo;s left to do is commit changes and push the new site to GitHub.</li>
+</ol>
+<p>For hosting it on GitHub, I used the second option from 
+<a href="https://tclavelle.github.io/blog/blogdown_github/" target="_blank" rel="noopener">this link</a> &ndash; namely, I have two repositories (including an extra one to store the source content and tell <code>blogdown</code> to publish the site to my <code>username.github.io</code> repository each time I build it, meaning I have to remember to push both repositories to GitHub when I make updates). The only other change from the tutorial I used was to add the hidden file <code>.nojekyll</code> to my <code>username.github.io</code> repository to make sure that GitHub does not rebuild the website using Jekyll.</p>
+<hr>
+<p>As an addendum to this post, I also followed Ming Tang&rsquo;s 
+<a href="https://divingintogeneticsandgenomics.rbind.io/post/hugo-academic-theme-blog-down-deployment-some-details/" target="_blank" rel="noopener">instructions</a> for customizing my website, primarily by changing the <code>config.toml</code> file. Notably, I changed the menu bar from white to black, added a CV section, and inactivated the selected publication and contact widgets.</p>
+<hr>
+<p>As a second addendum to this post, I also decided to set up a custom domain for this website. I had previously purchased the domain (
+<a href="http://www.andrea-rau.com" target="_blank" rel="noopener">www.andrea-rau.com</a>) through WordPress, without ever even really understanding how it worked. As it was coming up for renewal, I decided to transfer it to 
+<a href="https://domains.google/" target="_blank" rel="noopener">Google Domains</a>, which was a very straightforward process (I essentially clicked the link for &ldquo;I&rsquo;d like to transfer instead&rdquo;, followed the instructions, clicked the appropriate link sent to my email, and voila!). Once I had my domain in my Google Domains account (it took a couple of days for the transfer to complete), the process for setting up the custom domain for my website was very easy &ndash; although I actually found the GitHub documentation to be somewhat hard to follow. I instead followed most of the steps listed 
+<a href="https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b" target="_blank" rel="noopener">here</a>, with the only exception being that I made sure to use the updated GitHub IP addresses:</p>
+<ol>
+<li>Add a <code>CNAME</code> file in the <code>MYUSERNAME.github.io</code> repository that looked like the following, and committed and pushed the changes to my repo:</li>
+</ol>
+<pre tabindex="0"><code>andrea-rau.com
+www.andrea-rau.com
+</code></pre><ol start="2">
+<li>In the Manage window of Google Domains for my domain, I clicked DNS and scrolled to the bottom to the <code>Custom resource records</code> box. There I added one <code>@</code> record of type <code>A</code> for the following four IP addresses, as described in the 
+<a href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank" rel="noopener">GitHub Pages help</a>:</li>
+</ol>
+<ul>
+<li><code>185.199.108.153</code></li>
+<li><code>185.199.109.153</code></li>
+<li><code>185.199.110.153</code></li>
+<li><code>185.199.111.153</code></li>
+</ul>
+<p>Then I added one <code>www</code> record of type <code>CNAME</code> for my GitHub Pages address, <code>MYUSERNAME.github.io</code>.</p>
+<ol start="3">
+<li>Finally, back in the Settings of my GitHub pages repo, I made sure to check the box for <code>Enforce HTTPS</code>.</li>
+</ol>
+<hr>
+<p>As a third addendum to this post, I changed the font family and size per the nice instructions provided by 
+<a href="https://discourse.gohugo.io/t/hugo-academic-theme-how-to-change-the-font-size/17294/2" target="_blank" rel="noopener">Alison Hill</a>.</p>
+<hr>
+<p>As a fourth (!) addendum to this post, I converted my whole website to hugo apero using 
+<a href="https://hugo-apero-docs.netlify.app/" target="_blank" rel="noopener">these instructions</a>. It took me forever to get it configured how I want (all posts about converting a previous hugo academic website were totally worthless to me), but I&rsquo;m happy with it now! I now deploy to Netlify as described 
+<a href="https://hugo-apero-docs.netlify.app/start/deploy/" target="_blank" rel="noopener">here</a>, and I changed my custom Google domain to point to the new 
+<a href="">website</a> rather than my previous one using 
+<a href="https://dev.to/lost_semicolon/netlify-and-google-domains-hm3" target="_blank" rel="noopener">these instructions</a>.</p>
+<p>A major part of all of this is that I am now automating the lists of my publications, research projects, and students through the use of a Google sheets spreadsheet that I am parsing in custom R code. Maybe one day I will describe my process in another post!</p>
+
+        
+        <details closed class="f6 fw7 input-reset">
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">February 22, 2018</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">5 minute read, 876 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="https://andreamrau.netlify.app/categories/tips-and-tricks">Tips and tricks</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+  </dl>
+</details>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://andreamrau.netlify.app/blog/2018-mapping-transparency/">&larr; Mapping transparency in ggplot2 to a continuous variable</a>
+  
+  
+  
+</div>
+
+      </footer>
+    </article>
+    
+  </section>
+</main>
+<footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy; 2023 Andrea Rau, INRAE
+      <span class="middot-divider"></span>
+      Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
+      <br />
+      
+Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">Blogophonic</a></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a>.
+    </p>
+    
+    <div class="site-social-links db dtc-l v-mid w-100 w-33-l tc pv2 pv0-l mv0">
+      <div class="social-icon-links" aria-hidden="true">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="envelope" >
+      <i class="fa fa-envelope fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="twitter" >
+      <i class="fab fa-twitter fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="google-scholar" >
+      <i class="ai ai-google-scholar fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="github" >
+      <i class="fab fa-github fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="orcid" >
+      <i class="ai ai-orcid fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="researchgate" >
+      <i class="ai ai-researchgate fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="/" title="linkedin" >
+      <i class="fab fa-linkedin fa-lg fa-fw"></i>
+    </a>
+  
+</div>
+
+    </div>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      
+    </div>
+  </nav>
+  
+    <script>
+
+    var i, text, code, codes = document.getElementsByTagName('code');
+    for (let i = 0; i < codes.length;) {
+      code = codes[i];
+      if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+        text = code.textContent;
+        if (/^\$[^$]/.test(text) && /[^$]\$$/.test(text)) {
+          text = text.replace(/^\$/, '\\(').replace(/\$$/, '\\)');
+          code.textContent = text;
+        }
+        if (/^\\\((.|\s)+\\\)$/.test(text) ||
+            /^\\\[(.|\s)+\\\]$/.test(text) ||
+            /^\$(.|\s)+\$$/.test(text) ||
+            /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+          code.outerHTML = code.innerHTML;  
+          continue;
+        }
+      }
+      i++;
+    }
+</script>
+
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+
+
+    
+  
+  
+</footer>
+
+      </div>
+    </body>
+</html>

@@ -10,33 +10,32 @@
     <item>
       <title>Peer-reviewed articles</title>
       <link>https://andreamrau.netlify.app/collection/writing/articles/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/articles/</guid>
-      <description>Rau, A. (2021) Cooking up knowledge from big data using data science. Frontiers in Young Minds, 9:632923. 📄 🔄 🗣 🔗 💻
-  Mollandin, F., Rau, A., and Croiseau, P. (2021) An evaluation of the predictive performance and mapping power of the BayesR model for genomic prediction. G3, jkab225. 📄 🔄 💻
-  Sellem, E., Marthey, S., Rau, A., Jouneau, L., Bonnet, A., Le Danvic, C., Kiefer, H.</description>
+      <description>Noël, A., Dumas, C., Rottier, E., Beslay, D., Costagliola, G., Ginies, C., Nicolè, F., Rau, A., Le Conte, Y., and Mondet, F. (2023) Volatolome of the honey bee (Apis mellifera) worker brood: from egg to emergence. PLoS ONE, In press.
+  Mollandin, F., Gilbert, H., Croiseau, P., and Rau, A. (2022) Accounting for overlapping annotations in genomic prediction models of complex traits. BMC Bioinformatics, 23:65. 🔗📄🔄💻</description>
     </item>
     
     <item>
       <title>Books, book chapters &amp; dissertations</title>
       <link>https://andreamrau.netlify.app/collection/writing/books/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/books/</guid>
-      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit., Ed. L. Fontanesi.
-  Rau, A. (2017) Statistical methods and software for the analysis of transcriptomic data. HDR thesis, Université d’Évry Val-d’Essonne. HAL  PDF  Slides 
-  Martin-Magniette, M.-L., Maugis-Rabusseau, C. and Rau, A.</description>
+      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit, Ed. L. Fontanesi.
+  Rau, A. (2017) Statistical methods and software for the analysis of transcriptomic data. HDR thesis, Université d’Évry Val-d’Essonne.📄🗣
+  Martin-Magniette, M.-L., Maugis-Rabusseau, C. and Rau, A. (2017) Clustering of co-expressed genes.</description>
     </item>
     
     <item>
-      <title>Preprints</title>
+      <title>Preprints, submitted articles, and technical reports</title>
       <link>https://andreamrau.netlify.app/collection/writing/preprints/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/preprints/</guid>
-      <description>Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2021) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation&amp;hellip; Preprint  Code 
-  Cazals, A., Rau, A., Estellé, J., Bruneau, N., Coville, J.-L., Menanteau, P., Rossignol, M.-N., Jardet, D., Bevilacqua, C., Bed&amp;rsquo;Hom, B., Velge, P., and Calenge, F. (2021) Comparative analysis of the caecal tonsil transcriptome in two hen lines experimentally infected with Salmonella Enteritidis&amp;hellip;</description>
+      <description>Delosière, M., Bernard, L., Hurtaud, C., Guilleton, M., Viala, D., Rau, A., Bonnet, M. and Cebo, C. (2023) Protein signatures of spontaneous lipolysis and lipoprotein lipase activity in milk. Journal of ProteomicsSubmitted.
+  Duran Garzon, C., Chemin, C., Rau, A., Decaux, B., Sellier-Richard, H., Drouaud, J., Soubigou-Taconnat, L., Brunaud, V., Martin, M.-L., Palaffre, C., Rayon, C., Lourgant, K., Guénin, S. Gutierrez, L., Charcosset, A., Coursol, S., and Giauffret, C.</description>
     </item>
     
   </channel>

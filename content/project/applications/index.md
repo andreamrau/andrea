@@ -2,7 +2,7 @@
 author: Andrea Rau
 categories:
 - projects
-date: "2022-12-20"
+date: "2023-02-10"
 draft: false
 excerpt: Applications in animal, plant, and human genomics
 layout: single
