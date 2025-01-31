@@ -6,30 +6,30 @@
     <description>Recent content in Ongoing and recent research projects on Andrea Rau, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applications in animal, plant, and human genomics</title>
       <link>https://andreamrau.netlify.app/project/applications/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/applications/</guid>
       <description>My methodological research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
- Animal genomics applications  Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2022) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation.</description>
+ Animal genomics applications  Débare, H., Blanc, F., Piton, G., Leplat, J.-J., Vincent-Naulleau, S., Rivière, J., Vilotte, M., Marthey, S., Lecardonnel, J., Coville, J.-L., Estellé, J., Rau, A., Bournef, E., and Egidy, G.</description>
     </item>
     
     <item>
       <title>Multi-omic data integration</title>
       <link>https://andreamrau.netlify.app/project/integration/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/integration/</guid>
-      <description>Related software rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🔗  Related publications  Mollandin, F.</description>
+      <description>Related software rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🔗  Related publications  Mazo, G.</description>
     </item>
     
     <item>
       <title>Network inference</title>
       <link>https://andreamrau.netlify.app/project/networks/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/networks/</guid>
       <description>Related software ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  Related publications  Monneret, G., Jaffrézic, F., Rau, A., Zerjal, T. and Nuel, G. (2017) Identification of marginal causal relationships in gene networks from observational and interventional expression data. PLoS One, 12(3): e0171142. 🔗📄🔢
@@ -39,10 +39,10 @@
     <item>
       <title>RNA-seq co-expression</title>
       <link>https://andreamrau.netlify.app/project/coexpression/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/coexpression/</guid>
-      <description>Related software coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗  Related publications  Godichon-Baggioni, A., Maugis-Rabusseau, C. and Rau, A. (2018) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. Journal of Applied Statistics, 46(1):47-65.</description>
+      <description>Related software coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗  Related publications  Godichon-Baggioni, A., Maugis-Rabusseau, C. and Rau, A. (2019) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. Journal of Applied Statistics, 46(1):47-65.</description>
     </item>
     
     <item>
