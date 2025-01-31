@@ -10,16 +10,16 @@
     <item>
       <title>Software packages</title>
       <link>https://andreamrau.netlify.app/collection/coding/packages/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/coding/packages/</guid>
-      <description> BayesRCO: Bayesian genomic prediction models for overlapping annotations 🔗 rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 metaRNASeq: Meta-analysis of RNA-seq data 🔗 HTSDiff: Differential analysis for RNA-seq data 🔗 HTSFilter: Filter for replicated high-throughput sequencing data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗 ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  </description>
+      <description> RITHMS: An advanced stochastic framework for the simulation of transgenerational hologenomic data 🔗 betaHMM: A hidden Markov model to identify differential methylation sites and regions from beta-valued methylation data 🔗 betaclust: A Family of Beta Mixture Models for Clustering Beta-Valued DNA Methylation Data 🔗 BayesRCO: Bayesian genomic prediction models for overlapping annotations 🔗 rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 metaRNASeq: Meta-analysis of RNA-seq data 🔗 HTSDiff: Differential analysis for RNA-seq data 🔗 HTSFilter: Filter for replicated high-throughput sequencing data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗 ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  </description>
     </item>
     
     <item>
       <title>Shiny apps</title>
       <link>https://andreamrau.netlify.app/collection/coding/shiny/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/coding/shiny/</guid>
       <description> Invest Astuces: An R/Shiny interactive web application for financial and real estate loan simulations 🌐 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🌐 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🌐  </description>
