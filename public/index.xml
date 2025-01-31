@@ -6,42 +6,42 @@
     <description>Recent content on Andrea Rau, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peer-reviewed articles</title>
       <link>https://andreamrau.netlify.app/collection/writing/articles/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/articles/</guid>
-      <description>Noël, A., Dumas, C., Rottier, E., Beslay, D., Costagliola, G., Ginies, C., Nicolè, F., Rau, A., Le Conte, Y., and Mondet, F. (2023) Volatolome of the honey bee (Apis mellifera) worker brood: from egg to emergence. PLoS ONE, In press.
-  Mollandin, F., Gilbert, H., Croiseau, P., and Rau, A. (2022) Accounting for overlapping annotations in genomic prediction models of complex traits. BMC Bioinformatics, 23:65. 🔗📄🔄💻</description>
+      <description>Chalabi, S., Loonen, L., Boekhorst, J., Li, H., Fang, L., Harrison, P. W., Lakhal, W., Lluch, J., Sokolov, A., Djebali, S., Rau, A., Giuffra, E.* and Wells, J.* (2025) Differences in maternal diet fiber content influence patterns of gene expression and chromatin accessibility in fetuses and piglets. *Genomics*, 117:2, 110995. 🔗🔄
+  Majumdar, K., Silva, R., Perry, A. S., Watson, R. W., Rau, A., Jaffrézic, F., Murphy, T.</description>
     </item>
     
     <item>
       <title>PhD &#43; Postdoc supervision</title>
       <link>https://andreamrau.netlify.app/collection/advising/phd/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/advising/phd/</guid>
-      <description> Fanny Mollandin (2019-2022, PhD): Incorporating known functional annotations into Bayesian genomic prediction models (with Pascal Croiseau, co-funding from EU Horizon 2020 RIA grant GENE-SWitCH) Smahane Chalabi (2021-2022, Postdoc): A diet x epigenetics study in pigs, GENE-SWitCH grant (with Elisabetta Giuffra and Sarah Djebali) Manuel Revilla Sanchez (2016, 3-month PhD Erasmus+ Learning Mobility): An integrative gene network analysis of the genetic determination of pig fatty acid composition (with Jordi Estelle and Yuliaxis Ramayo Caldas) Gilles Monneret (2014-2018, PhD): Estimation of causal effects in gene networks from observational and intervention data (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012-2015, PhD): Clustering and network inference for RNA-seq data (with Gilles Celeux and Florence Jaffrézic)  </description>
+      <description> Solène Pety (2023-2026, PhD): Hologenomic methods to account for host microbiota in genetic evaluations (with Mahendra Mariadassou and Ingrid David) Fanny Mollandin (2019-2022, PhD): Incorporating known functional annotations into Bayesian genomic prediction models (with Pascal Croiseau, co-funding from EU Horizon 2020 RIA grant GENE-SWitCH and INRAE DIGIT-BIO metaprogramme) Smahane Chalabi (2021-2022, Postdoc): A diet x epigenetics study in pigs, GENE-SWitCH grant (with Elisabetta Giuffra and Sarah Djebali) Gilles Monneret (2014-2018, PhD): Estimation of causal effects in gene networks from observational and intervention data (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012-2015, PhD): Clustering and network inference for RNA-seq data (with Gilles Celeux and Florence Jaffrézic) Antoine Godichon-Baggioni (2016-2017, Postdoc): Clustering of co-expressed genes based on RNA-seq data (with Cathy Maugis-Rabusseau)  </description>
     </item>
     
     <item>
       <title>Software packages</title>
       <link>https://andreamrau.netlify.app/collection/coding/packages/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/coding/packages/</guid>
-      <description> BayesRCO: Bayesian genomic prediction models for overlapping annotations 🔗 rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 metaRNASeq: Meta-analysis of RNA-seq data 🔗 HTSDiff: Differential analysis for RNA-seq data 🔗 HTSFilter: Filter for replicated high-throughput sequencing data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗 ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  </description>
+      <description> RITHMS: An advanced stochastic framework for the simulation of transgenerational hologenomic data 🔗 betaHMM: A hidden Markov model to identify differential methylation sites and regions from beta-valued methylation data 🔗 betaclust: A Family of Beta Mixture Models for Clustering Beta-Valued DNA Methylation Data 🔗 BayesRCO: Bayesian genomic prediction models for overlapping annotations 🔗 rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 metaRNASeq: Meta-analysis of RNA-seq data 🔗 HTSDiff: Differential analysis for RNA-seq data 🔗 HTSFilter: Filter for replicated high-throughput sequencing data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗 ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  </description>
     </item>
     
     <item>
       <title>Books, book chapters &amp; dissertations</title>
       <link>https://andreamrau.netlify.app/collection/writing/books/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/books/</guid>
-      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit, Ed. L. Fontanesi.
+      <description>Duranthon, V., Araújo, S., Palma, M., Rau, A., Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. In: The Genetics and Genomics of the Rabbit, Ed. L. Fontanesi. 🔗
   Rau, A. (2017) Statistical methods and software for the analysis of transcriptomic data. HDR thesis, Université d’Évry Val-d’Essonne.📄🗣
   Martin-Magniette, M.-L., Maugis-Rabusseau, C. and Rau, A. (2017) Clustering of co-expressed genes.</description>
     </item>
@@ -49,16 +49,16 @@
     <item>
       <title>Research interns &#43; short-term contract supervision</title>
       <link>https://andreamrau.netlify.app/collection/advising/masters/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/advising/masters/</guid>
-      <description> Louis Carrel-Billiard (2023, M2 internship): Exploration of a hologenomic approach to account for host microbiota in genetic evaluations (with Mahendra Mariadassou) See Hyun Park (2022, M2 internship): Impact of nutritional supplement intervention on cognitive health networks (with Jean-Christophe Delpech and Charlotte Madore-Delpech) Maxime Guilleton (2021, 6-month CDD): Bioinformatics research engineer, LIPOMEC grant (with Mylène Delosiere) Alexandre Asset (2021, L2 internship): Inference of co-expression networks from intervention transcriptomic data (with Florence Jaffrézic and Denis Laloë) Solène Pety (2021, M1 internship): Knowledge transfer using multivariate gene expression projections onto a large-scale reference database (with Catherine Giauffret) Raphaëlle Momal-Leisenring (2017, M2 internship): Integrative statistical analysis of multi-omics data Frédéric Jehl (2017, M2 internship): Impact of heat stress on liver and blood transcriptomes of laying hens (with Tatiana Zerjal) Babacar Ciss (2016, M2 internship): Constructing predictive models for ovine production data (with Eli Sellem) Audrey Hulot (2015, M1 internship): Incorporating a priori biological knowledge into gene network inference from observational and intervention gene expression data (with Florence Jaffrézic) Meriem Benabbas (2015, M1 internship): Identifying differentially expressed genes from RNA-seq data using mixture models Marc Teissier and Chaoyu Dong (2014, M1 STV/EM-ABG internship): Power to detect significantly differential gene expression using RNA-seq data Rémi Bancal (2012, M2 internship): Gene network estimation by adaptive knockout experiments (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012, M2 internship): Gene network inference from RNA sequencing expression data (with Gilles Celeux and Florence Jaffrézic)  </description>
+      <description> Vincent Spinelli (2025, M2 internship): Identifying subpopulation-specific associations from large-scale paired genomic-transcriptomic data (with Nathalie Vialaneix) Louis Carrel-Billiard (2023, M2 internship): Exploration of a hologenomic approach to account for host microbiota in genetic evaluations (with Mahendra Mariadassou and Ingrid David) See Hyun Park (2022, M2 internship): Impact of nutritional supplement intervention on cognitive health networks (with Jean-Christophe Delpech and Charlotte Madore-Delpech) Maxime Guilleton (2021, 6-month CDD): Bioinformatics research engineer, LIPOMEC grant (with Mylène Delosiere) Alexandre Asset (2021, L2 internship): Inference of co-expression networks from intervention transcriptomic data (with Florence Jaffrézic and Denis Laloë) Solène Pety (2021, M1 internship): Knowledge transfer using multivariate gene expression projections onto a large-scale reference database (with Catherine Giauffret) Raphaëlle Momal-Leisenring (2017, M2 internship): Integrative statistical analysis of multi-omics data Frédéric Jehl (2017, M2 internship): Impact of heat stress on liver and blood transcriptomes of laying hens (with Tatiana Zerjal) Babacar Ciss (2016, M2 internship): Constructing predictive models for ovine production data (with Eli Sellem) Audrey Hulot (2015, M1 internship): Incorporating a priori biological knowledge into gene network inference from observational and intervention gene expression data (with Florence Jaffrézic) Meriem Benabbas (2015, M1 internship): Identifying differentially expressed genes from RNA-seq data using mixture models Marc Teissier and Chaoyu Dong (2014, M1 STV/EM-ABG internship): Power to detect significantly differential gene expression using RNA-seq data Rémi Bancal (2012, M2 internship): Gene network estimation by adaptive knockout experiments (with Grégory Nuel and Florence Jaffrézic) Mélina Gallopin (2012, M2 internship): Gene network inference from RNA sequencing expression data (with Gilles Celeux and Florence Jaffrézic)  </description>
     </item>
     
     <item>
       <title>Shiny apps</title>
       <link>https://andreamrau.netlify.app/collection/coding/shiny/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/coding/shiny/</guid>
       <description> Invest Astuces: An R/Shiny interactive web application for financial and real estate loan simulations 🌐 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🌐 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🌐  </description>
@@ -67,45 +67,46 @@
     <item>
       <title>Advisory and evaluation Committee membership</title>
       <link>https://andreamrau.netlify.app/collection/advising/committees/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/advising/committees/</guid>
-      <description> Fatima Shokor (2023-2026): PhD advisory committee member Ekaterina Tomilina (2022-2025): PhD advisory committee member Bénédicte Wenden (2023): HDR evaluation committee member (rapportrice) Ousmane Suwareh (2022): PhD evaluation committee member (examinatrice) Fotini Panagou (2022): PhD evaluation committee member Océane Cassan (2022): PhD evaluation committee member (rapportrice) Camille Kergal (2022): PhD evaluation committee member (evaluatrice) Baber Ali (2021-2024): PhD advisory committee member Ambre Giguelay (2021): PhD evaluation committee member (rapportrice) Leila Khajavi (2021): PhD evaluation committee member (rapportrice) Thibault Poinsignon (2021-2023): PhD advisory committee member Nicolas Jouvin (2021): PhD evaluation committee member (rapportrice) Lucile Broséus (2021): PhD evaluation committee member (rapportrice) Wilfried Heyse (2020-2022): PhD advisory committee member Antoine Leduc (2019-2022): PhD advisory committee member Alyssa Imbert (2018): PhD evaluation committee member (rapportrice) Frédéric Jehl (2017-2020): PhD advisory committee member Valentin Voillet (2016): PhD evaluation committee member Gabriel Guillocheau (2015-2018): PhD advisory committee member  </description>
+      <description> Annaïg De Walsche (2025): PhD evaluation committee member Milan Picard (2025): PhD evaluation committee member Mitja Briscik (2025): PhD evaluation committee member (rapportrice) Nadia Bessoltane (2024-2027): PhD advisory committee member Treudsky Antoine (2024-2027): PhD advisory committee member Thomas-Sylvestre Michau (2023-2026): PhD advisory committee member Stacy Rousse (2023-2026): PhD advisory committee member Alexandre Hubert (2023-2026): PhD advisory committee member Juliette Carpentier (2022-2025): PhD advisory committee member Alexandre Duplan (2022-2025): PhD advisory committee member Ekaterina Tomilina (2022-2025): PhD advisory committee member Christophe Boetto (2024): PhD evaluation committee member (rapportrice) David Hirst (2024): PhD evaluation committee member (rapportrice) Geert-Jan Huizing (2024): PhD evaluation committee member (présidente) Marion Naveau (2024): PhD evaluation committee member Magali Berland (2024): HDR evaluation committee member (rapportrice) Can Yuan (2024): PhD evaluation committee member (rapportrice) Andrew Tolonen (2024): HDR evaluation committee member (présidente) Baber Ali (2021-2024): PhD advisory committee member Emile Mardoc (2023): PhD evaluation committee member (rapportrice) Yacine Djabali (2023): PhD evaluation committee member (presidente) Camille Juigné (2023): PhD evaluation committee member (rapportrice) Sophie Lèbre (2023): HDR evaluation committee member (rapportrice) Bénédicte Wenden (2023): HDR evaluation committee member (rapportrice) Ousmane Suwareh (2022): PhD evaluation committee member (examinatrice) Fotini Panagou (2022): PhD evaluation committee member (examinatrice) Océane Cassan (2022): PhD evaluation committee member (rapportrice) Camille Kergal (2022): PhD evaluation committee member (examinatrice) Ambre Giguelay (2021): PhD evaluation committee member (rapportrice) Leila Khajavi (2021): PhD evaluation committee member (rapportrice) Thibault Poinsignon (2021-2023): PhD advisory committee member Nicolas Jouvin (2021): PhD evaluation committee member (rapportrice) Lucile Broséus (2021): PhD evaluation committee member (rapportrice) Wilfried Heyse (2020-2022): PhD advisory committee member Antoine Leduc (2019-2022): PhD advisory committee member Alyssa Imbert (2018): PhD evaluation committee member (rapportrice) Frédéric Jehl (2017-2020): PhD advisory committee member Valentin Voillet (2016): PhD evaluation committee member (examinatrice) Gabriel Guillocheau (2015-2018): PhD advisory committee member  </description>
     </item>
     
     <item>
       <title>Preprints, submitted articles, and technical reports</title>
       <link>https://andreamrau.netlify.app/collection/writing/preprints/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/collection/writing/preprints/</guid>
-      <description>Delosière, M., Bernard, L., Hurtaud, C., Guilleton, M., Viala, D., Rau, A., Bonnet, M. and Cebo, C. (2023) Protein signatures of spontaneous lipolysis and lipoprotein lipase activity in milk. Journal of ProteomicsSubmitted.
-  Duran Garzon, C., Chemin, C., Rau, A., Decaux, B., Sellier-Richard, H., Drouaud, J., Soubigou-Taconnat, L., Brunaud, V., Martin, M.-L., Palaffre, C., Rayon, C., Lourgant, K., Guénin, S. Gutierrez, L., Charcosset, A., Coursol, S., and Giauffret, C.</description>
+      <description>Pety, S., David, I., Rau, A., and Mariadassou, M. (2025) RITHMS : An advanced stochastic framework for the simulation of transgenerational hologenomic data. BioinformaticsSubmitted.
+  Majumdar, K., Gormley, I. C., Murphy, T. B., Jaffrézic, F. and Rau, A. (2024) betaHMM: a hidden Markov model to identify differentially methylated sites and regions from beta-valued DNA methylation data. BiostatisticsSubmitted.
+  Majumdar, K., Jaffrézic, F., Rau, A., Gormley, I. C.</description>
     </item>
     
     <item>
       <title>Applications in animal, plant, and human genomics</title>
       <link>https://andreamrau.netlify.app/project/applications/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/applications/</guid>
       <description>My methodological research is strongly motivated by applications in human, animal, and plant genomics. I have made strong efforts to contribute analyses and develop methods that can provide useful solutions in these areas.
- Animal genomics applications  Rau, A., Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2022) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation.</description>
+ Animal genomics applications  Débare, H., Blanc, F., Piton, G., Leplat, J.-J., Vincent-Naulleau, S., Rivière, J., Vilotte, M., Marthey, S., Lecardonnel, J., Coville, J.-L., Estellé, J., Rau, A., Bournef, E., and Egidy, G.</description>
     </item>
     
     <item>
       <title>Multi-omic data integration</title>
       <link>https://andreamrau.netlify.app/project/integration/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/integration/</guid>
-      <description>Related software rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🔗  Related publications  Mollandin, F.</description>
+      <description>Related software rpl: Randomized pairwise likelihood method for complex statistical inferences 🔗 padma: Pathway deviation scores using multiple factor analysis 🔗 Regeneration Rosetta: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility 🔗 maskmeans: Multi-view aggregation/splitting K-means clustering algorithm 🔗 Edge in TCGA: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas 🔗  Related publications  Mazo, G.</description>
     </item>
     
     <item>
       <title>Network inference</title>
       <link>https://andreamrau.netlify.app/project/networks/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/networks/</guid>
       <description>Related software ebdbNet: Empirical Bayes estimation for dynamic Bayesian networks 🔗  Related publications  Monneret, G., Jaffrézic, F., Rau, A., Zerjal, T. and Nuel, G. (2017) Identification of marginal causal relationships in gene networks from observational and interventional expression data. PLoS One, 12(3): e0171142. 🔗📄🔢
@@ -115,10 +116,100 @@
     <item>
       <title>RNA-seq co-expression</title>
       <link>https://andreamrau.netlify.app/project/coexpression/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/project/coexpression/</guid>
-      <description>Related software coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗  Related publications  Godichon-Baggioni, A., Maugis-Rabusseau, C. and Rau, A. (2018) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. Journal of Applied Statistics, 46(1):47-65.</description>
+      <description>Related software coseq: Co-expression analysis of sequencing data 🔗 ICAL: Model selection for model based clustering of annotated data 🔗 HTSCluster: Clustering high-throughput sequencing data with Poisson mixture models 🔗  Related publications  Godichon-Baggioni, A., Maugis-Rabusseau, C. and Rau, A. (2019) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. Journal of Applied Statistics, 46(1):47-65.</description>
+    </item>
+    
+    <item>
+      <title>Tackling data integration challenges -- Integrated transcriptomic and epigenetic differential analysis with idiffomix</title>
+      <link>https://andreamrau.netlify.app/talk/2025-01-06-jouy-en-josas/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2025-01-06-jouy-en-josas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited keynote) From complexity to clarity -- Tackling the challenges of multi-omic integration</title>
+      <link>https://andreamrau.netlify.app/talk/2024-12-03-aussois/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-12-03-aussois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2024-11-26-marseille/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-11-26-marseille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using biological priors in genomic prediction models -- QQOQCCP?</title>
+      <link>https://andreamrau.netlify.app/talk/2024-03-29-virtual/</link>
+      <pubDate>Fri, 29 Mar 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-03-29-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) Accounting for overlapping functional annotations as biological priors in Bayesian genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2024-03-07-dublin-ireland/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-03-07-dublin-ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2024-02-29-paris/</link>
+      <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-02-29-paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term effects of high-fiber maternal diets on the functional genome of pig offspring</title>
+      <link>https://andreamrau.netlify.app/talk/2023-11-07-bruxelles-belgium/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-11-07-bruxelles-belgium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for overlapping annotations as biological priors in genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2023-10-13-edinburgh-uk/</link>
+      <pubDate>Fri, 13 Oct 2023 09:30:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-10-13-edinburgh-uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional annotations to guide prediction of tissue-specific gene expression from cis-regulatory sequencing variants</title>
+      <link>https://andreamrau.netlify.app/talk/2023-05-04-virtual/</link>
+      <pubDate>Thu, 04 May 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-05-04-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging multi-omic data for integrative exploratory and predictive analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2023-03-24-saclay/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-03-24-saclay/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -193,6 +284,15 @@
       <pubDate>Mon, 30 May 2022 14:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) A randomized pairwise likelihood method for complex statistical inferences</title>
+      <link>https://andreamrau.netlify.app/talk/2022-02-07-paris/</link>
+      <pubDate>Mon, 07 Feb 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-02-07-paris/</guid>
       <description></description>
     </item>
     
