@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.88.1" />
-<title>Series | Andrea Rau, PhD</title>
+<title>(Invited talk) Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits | Andrea Rau, PhD</title>
 
 
 <meta property="twitter:site" content="@andreamrau">
@@ -24,26 +24,30 @@
   
     
   
-<meta name="description" content="A modern, beautiful, and easily configurable blog theme for Hugo.">
+<meta name="description" content="Marseille Medical Genetics symposium, Statistical methods for multi-omics data integration">
 
 
 <meta property="og:site_name" content="Andrea Rau, PhD">
-<meta property="og:title" content="Series | Andrea Rau, PhD">
-<meta property="og:description" content="A modern, beautiful, and easily configurable blog theme for Hugo." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://andreamrau.netlify.app/series/" />
+<meta property="og:title" content="(Invited talk) Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits | Andrea Rau, PhD">
+<meta property="og:description" content="Marseille Medical Genetics symposium, Statistical methods for multi-omics data integration" />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="https://andreamrau.netlify.app/talk/2024-11-26-marseille/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://andreamrau.netlify.app/img/papillons.jpg" >
+        <meta property="og:image" content="https://andreamrau.netlify.app/talk/sidebar-listing.jpg" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://andreamrau.netlify.app/img/papillons.jpg" >
+        <meta name="twitter:image" content="https://andreamrau.netlify.app/talk/sidebar-listing.jpg" >
     
-  <meta itemprop="name" content="Series">
-<meta itemprop="description" content="A modern, beautiful, and easily configurable blog theme for Hugo.">
+    
+  <meta itemprop="name" content="(Invited talk) Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits">
+<meta itemprop="description" content=""><meta itemprop="datePublished" content="2024-11-26T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2024-11-26T00:00:00+00:00" />
+<meta itemprop="wordCount" content="0">
+<meta itemprop="keywords" content="" />
   
 <script type="application/javascript">
 var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
@@ -61,8 +65,6 @@ if (!doNotTrack) {
   <link rel="shortcut icon" href="/img/sigle.ico" type="image/x-icon">
   <link rel="icon" href="/img/sigle.ico" type="image/x-icon">
   
-    <link rel="alternate" type="application/rss+xml" href="https://andreamrau.netlify.app/series/index.xml" title="Andrea Rau, PhD" />
-  
   
   <link rel="stylesheet" href="/style.main.min.f72f5cc794fcc7b86cab520db152dc3ef55aea333df2e3496a4e1bac97849df2.css" integrity="sha256-9y9cx5T8x7hsq1INsVLcPvVa6jM98uNJak4brJeEnfI=" media="screen">
   
@@ -73,7 +75,7 @@ if (!doNotTrack) {
   <script src="/main.min.87b8bc3638f41ea1fd41f332acc64b4dd3be1dc21037b1984d4c12dccf1f876f.js" type="text/javascript"></script>
 </head>
 <body>
-      <div class="grid-container">
+      <div class="grid-container single">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
     <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://andreamrau.netlify.app/" title="Home">
@@ -94,7 +96,7 @@ if (!doNotTrack) {
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="talks">Talks</a>
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/talk/" title="talks">Talks</a>
       
         
         
@@ -111,14 +113,114 @@ if (!doNotTrack) {
   </nav>
 </header>
 
-
 <main class="page-main pa4" role="main">
-  <section class="blog-intro mw7 center mb5">
-    <h1 class="f2 f1-ns fw4 lh-solid tc center i">Series</h1>
-    <p class="f6 f5-ns measure lh-copy tc center"></p>
-  </section>
-  <section class="blog-content mw7 center">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">(Invited talk) Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Marseille Medical Genetics symposium, Statistical methods for multi-omics data integration</h4>
+        
+        <p class="f7 db mv0 ttu">November 26, 2024</p>
+      
+      <section class="event-details cf pt5-ns pt4">
   
+  <div class="first-column">
+    <h5 class="row-label">Abstract</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">It is now widespread to build whole-genome regression models using genomic data to predict complex traits in a wide range of fields, including farm animal and plant breeding and human genetics. Functional genomic annotations, such as the accessibility of chromatin or methylation status in target tissues at relevant developmental stages, have the potential to provide valuable insight into the position and effect size of causal genetic variants underlying complex traits. In the H2020 GENE-SWitCH project, we aimed to develop and validate Bayesian models able to more fully leverage such complex functional annotations for improved accuracy and interpretability of genomic predictions in the pig and poultry breeding sectors. To this end, we defined and implemented a flexible framework for genomic prediction called BayesRCO to simultaneously take advantage of the availability of multiple functional genomic annotations. In this talk, I’ll describe the intuition behind our proposed model and discuss some of our key take-away messages from early use cases.</p>
+  </div>
+  
+  
+  <div class="first-column">
+    <h5 class="row-label">Date</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">
+
+
+
+
+
+  
+  
+      November 26, 2024
+  
+  
+</p>
+  </div>
+  <div class="first-column">
+    <h5 class="row-label">Time</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">
+
+
+
+
+  
+  
+      12:00 AM
+  
+
+</p>
+  </div>
+  
+  
+  <div class="first-column">
+    <h5 class="row-label">Location</h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">Marseille</p>
+  </div>
+  
+  
+</section>
+      </header>
+      <section class="post-body pt5 pb4">
+        
+        
+        <details closed class="f6 fw7 input-reset">
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">November 26, 2024</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">0 minute read, 0 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="https://andreamrau.netlify.app/categories/seminar">seminar</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+  </dl>
+</details>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://andreamrau.netlify.app/talk/2024-12-03-aussois/">&larr; (Invited keynote) From complexity to clarity -- Tackling the challenges of multi-omic integration</a>
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://andreamrau.netlify.app/talk/2024-03-29-virtual/">Using biological priors in genomic prediction models -- QQOQCCP? &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
   </section>
 </main>
 <footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">

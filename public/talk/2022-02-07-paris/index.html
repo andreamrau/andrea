@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.88.1" />
-<title>(Invited keynote) Integrative and interactive analyses of multi-omics data | Andrea Rau, PhD</title>
+<title>(Invited talk) A randomized pairwise likelihood method for complex statistical inferences | Andrea Rau, PhD</title>
 
 
 <meta property="twitter:site" content="@andreamrau">
@@ -24,29 +24,29 @@
   
     
   
-<meta name="description" content="JOBIM 2020">
+<meta name="description" content="Séminaire statistique de Paris">
 
 
 <meta property="og:site_name" content="Andrea Rau, PhD">
-<meta property="og:title" content="(Invited keynote) Integrative and interactive analyses of multi-omics data | Andrea Rau, PhD">
-<meta property="og:description" content="JOBIM 2020" />
+<meta property="og:title" content="(Invited talk) A randomized pairwise likelihood method for complex statistical inferences | Andrea Rau, PhD">
+<meta property="og:description" content="Séminaire statistique de Paris" />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://andreamrau.netlify.app/talk/2020-07-02-virtual/" />
+<meta property="og:url" content="https://andreamrau.netlify.app/talk/2022-02-07-paris/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://andreamrau.netlify.app/talk/2020-07-02-virtual/featured.png" >
+        <meta property="og:image" content="https://andreamrau.netlify.app/talk/sidebar-listing.jpg" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://andreamrau.netlify.app/talk/2020-07-02-virtual/featured.png" >
+        <meta name="twitter:image" content="https://andreamrau.netlify.app/talk/sidebar-listing.jpg" >
     
     
-  <meta itemprop="name" content="(Invited keynote) Integrative and interactive analyses of multi-omics data">
-<meta itemprop="description" content=""><meta itemprop="datePublished" content="2020-07-02T14:00:00+00:00" />
-<meta itemprop="dateModified" content="2020-07-02T14:00:00+00:00" />
-<meta itemprop="wordCount" content="0"><meta itemprop="image" content="https://andreamrau.netlify.app/talk/2020-07-02-virtual/featured.png">
+  <meta itemprop="name" content="(Invited talk) A randomized pairwise likelihood method for complex statistical inferences">
+<meta itemprop="description" content=""><meta itemprop="datePublished" content="2022-02-07T14:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-02-07T14:00:00+00:00" />
+<meta itemprop="wordCount" content="0">
 <meta itemprop="keywords" content="" />
   
 <script type="application/javascript">
@@ -117,36 +117,23 @@ if (!doNotTrack) {
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">(Invited keynote) Integrative and interactive analyses of multi-omics data</h1>
-        <h4 class="f4 mt0 mb4 lh-title measure">JOBIM 2020</h4>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">(Invited talk) A randomized pairwise likelihood method for complex statistical inferences</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Séminaire statistique de Paris</h4>
         
-        <p class="f7 db mv0 ttu">July 2, 2020</p>
+        <p class="f7 db mv0 ttu">February 7, 2022</p>
       
         <div class="ph0 pt5">
           
     
     
     
-      
-    
-    
-    
-    
-    
-      
-      
-  <a class="btn-links mr2 ba dib" href="https://relaiswebcasting.mediasite.com/mediasite/Play/a1859271fb2b41d9ab93116f71ae10fb1d?catalog=e534823f0c954836bf85bfa80af2290921" target="_blank" rel="noopener"><i class="fas fa-video fa-lg fa-fw mr2"></i>video</a>
-
-    
-    
-    
     
     
     
     
       
       
-  <a class="btn-links mr2 ba dib" href="https://tinyurl.com/JOBIM2020-Rau" target="_blank" rel="noopener"><i class="fa-regular fa-regular-presentation-screen fa-lg fa-fw mr2"></i>slides</a>
+  <a class="btn-links mr2 ba dib" href="https://speakerdeck.com/andreamrau/a-randomized-pairwise-likelihood-method-for-complex-statistical-inferences" target="_blank" rel="noopener"><i class="fa-regular fa-regular-presentation-screen fa-lg fa-fw mr2"></i>slides</a>
 
 
         </div>
@@ -157,7 +144,7 @@ if (!doNotTrack) {
     <h5 class="row-label">Abstract</h5>
   </div>
   <div class="second-column">
-    <p class="row-details">The increased availability and affordability of high-throughput sequencing technologies in recent years has facilitated the use of multi-omic studies to expand and enrich our understanding of complex biological systems. However, defining a holistic and meaningful way to exploit these heterogeneous and multi-faceted ‘omics data can be complicated by several major obstacles. These include the unknown hierarchy and potentially ambiguous relationships among different sources of data, the explosion in data dimension, issues due to batch effects and quality control, potentially incomplete or missing data, limited sample sizes, and the occasional difficulty in posing well-defined and answerable research questions of such data. In light of these challenges, in this talk I will provide an overview of some of our methodological contributions to integrative multi-omic analyses, and I will discuss how the development of interactive tools can be a useful addition to the multi-omic analysis toolbox.</p>
+    <p class="row-details">Pairwise likelihood methods are commonly used for inference in parametric statistical models in cases where the full likelihood is too complex to be used, such as multivariate count data. Although pairwise likelihood methods represent a useful solution to perform inference for intractable likelihoods, several computational challenges remain, particularly in higher dimensions. To alleviate these issues, we consider a randomized pairwise likelihood approach, where only summands randomly sampled across observations and pairs are used for the estimation. In addition to the usual tradeoff between statistical and computational efficiency, we show that, under a condition on the sampling parameter, this two-way random sampling mechanism allows for the construction of less computationally expensive confidence intervals. The proposed approach, which is implemented in the rpl R package, is illustrated in tandem with copula-based models for multivariate count data in simulations and on a set of transcriptomic data.</p>
   </div>
   
   
@@ -173,7 +160,7 @@ if (!doNotTrack) {
 
   
   
-      July 2, 2020
+      February 7, 2022
   
   
 </p>
@@ -189,7 +176,7 @@ if (!doNotTrack) {
 
   
   
-      2:00 PM &ndash; 3:00 PM
+      2:00 PM &ndash; 5:00 PM
   
 
 </p>
@@ -200,20 +187,20 @@ if (!doNotTrack) {
     <h5 class="row-label">Location</h5>
   </div>
   <div class="second-column">
-    <p class="row-details">virtual</p>
+    <p class="row-details">Paris</p>
   </div>
   
   
 </section>
       </header>
       <section class="post-body pt5 pb4">
-        <script async class="speakerdeck-embed" data-id="84764036cfb84438aa72b541fb5b4a85" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="4e676145cc0346a2bc8be4ea16ec0abb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">July 2, 2020</dd>
+    <dd class="fw5 ml0">February 7, 2022</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
@@ -222,7 +209,7 @@ if (!doNotTrack) {
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Categories:</dt>
-    <dd class="fw5 ml0"> <a href="https://andreamrau.netlify.app/categories/conference">conference</a> </dd>
+    <dd class="fw5 ml0"> <a href="https://andreamrau.netlify.app/categories/seminar">seminar</a> </dd>
   </dl>
   
   
@@ -239,12 +226,12 @@ if (!doNotTrack) {
   
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="https://andreamrau.netlify.app/talk/2022-02-07-virtual/">&larr; (Invited talk) A randomized pairwise likelihood method for complex statistical inferences</a>
+    href="https://andreamrau.netlify.app/talk/2022-05-30-montpellier/">&larr; Leveraging multi-omic data for integrative exploratory, predictive, and network analyses</a>
   
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://andreamrau.netlify.app/talk/2019-12-09-brussels-belgium/">(Invited talk) Individualized multi-omic pathway deviation scores using multiple factor analysis &rarr;</a>
+    href="https://andreamrau.netlify.app/talk/2022-02-07-virtual/">(Invited talk) A randomized pairwise likelihood method for complex statistical inferences &rarr;</a>
   
 </div>
 
