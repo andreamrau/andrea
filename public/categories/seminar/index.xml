@@ -6,7 +6,97 @@
     <description>Recent content in seminar on Andrea Rau, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Feb 2023 13:15:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamrau.netlify.app/categories/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tackling data integration challenges -- Integrated transcriptomic and epigenetic differential analysis with idiffomix</title>
+      <link>https://andreamrau.netlify.app/talk/2025-01-06-jouy-en-josas/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2025-01-06-jouy-en-josas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited keynote) From complexity to clarity -- Tackling the challenges of multi-omic integration</title>
+      <link>https://andreamrau.netlify.app/talk/2024-12-03-aussois/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-12-03-aussois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2024-11-26-marseille/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-11-26-marseille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using biological priors in genomic prediction models -- QQOQCCP?</title>
+      <link>https://andreamrau.netlify.app/talk/2024-03-29-virtual/</link>
+      <pubDate>Fri, 29 Mar 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-03-29-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) Accounting for overlapping functional annotations as biological priors in Bayesian genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2024-03-07-dublin-ireland/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-03-07-dublin-ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for overlapping functional annotations as biological priors in genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2024-02-29-paris/</link>
+      <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2024-02-29-paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term effects of high-fiber maternal diets on the functional genome of pig offspring</title>
+      <link>https://andreamrau.netlify.app/talk/2023-11-07-bruxelles-belgium/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-11-07-bruxelles-belgium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for overlapping annotations as biological priors in genomic prediction models of complex traits</title>
+      <link>https://andreamrau.netlify.app/talk/2023-10-13-edinburgh-uk/</link>
+      <pubDate>Fri, 13 Oct 2023 09:30:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-10-13-edinburgh-uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional annotations to guide prediction of tissue-specific gene expression from cis-regulatory sequencing variants</title>
+      <link>https://andreamrau.netlify.app/talk/2023-05-04-virtual/</link>
+      <pubDate>Thu, 04 May 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-05-04-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging multi-omic data for integrative exploratory and predictive analyses</title>
+      <link>https://andreamrau.netlify.app/talk/2023-03-24-saclay/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2023-03-24-saclay/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Incorporating biological information into genomic prediction models</title>
       <link>https://andreamrau.netlify.app/talk/2023-02-08-virtual/</link>
@@ -49,6 +139,15 @@
       <pubDate>Mon, 30 May 2022 14:00:00 +0000</pubDate>
       
       <guid>https://andreamrau.netlify.app/talk/2022-05-30-montpellier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Invited talk) A randomized pairwise likelihood method for complex statistical inferences</title>
+      <link>https://andreamrau.netlify.app/talk/2022-02-07-paris/</link>
+      <pubDate>Mon, 07 Feb 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://andreamrau.netlify.app/talk/2022-02-07-paris/</guid>
       <description></description>
     </item>
     
