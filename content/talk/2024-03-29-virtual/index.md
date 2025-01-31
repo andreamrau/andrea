@@ -6,7 +6,7 @@ categories:
     - seminar
 draft: false
 excerpt: 
-title: Using biological priors in genomic prediction models: QQOQCCP?
+title: Using biological priors in genomic prediction models -- QQOQCCP?
 subtitle: TransModGen seminar
 location: virtual
 layout: single
