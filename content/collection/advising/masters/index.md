@@ -1,12 +1,13 @@
 ---
-date: "2023-02-10"
+date: "2025-01-31"
 excerpt:
 subtitle: ""
 title: Research interns + short-term contract supervision
 weight: 2
 ---
 
-- **Louis Carrel-Billiard** (2023, M2 internship): Exploration of a hologenomic approach to account for host microbiota in genetic evaluations (with Mahendra Mariadassou)
+- **Vincent Spinelli** (2025, M2 internship): Identifying subpopulation-specific associations from large-scale paired genomic-transcriptomic data (with Nathalie Vialaneix)
+- **Louis Carrel-Billiard** (2023, M2 internship): Exploration of a hologenomic approach to account for host microbiota in genetic evaluations (with Mahendra Mariadassou and Ingrid David)
 - **See Hyun Park** (2022, M2 internship): Impact of nutritional supplement intervention on cognitive health networks (with Jean-Christophe Delpech and Charlotte Madore-Delpech)
 - **Maxime Guilleton** (2021, 6-month CDD): Bioinformatics research engineer, LIPOMEC grant (with Mylène Delosiere)
 - **Alexandre Asset** (2021, L2 internship): Inference of co-expression networks from intervention transcriptomic data (with Florence Jaffrézic and Denis Laloë)

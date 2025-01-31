@@ -2,7 +2,7 @@
 author: Andrea Rau
 categories:
 - projects
-date: "2023-02-10"
+date: "2025-01-31"
 draft: false
 excerpt: Co-expression analysis for RNA sequencing data
 layout: single
@@ -20,7 +20,7 @@ title: RNA-seq co-expression
 
 ### Related publications
 
-1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2018) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. *Journal of Applied Statistics*, 46(1):47-65. [:link:](https://dx.doi.org/10.1080/02664763.2018.1454894)[:page_facing_up:](https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1454894?journalCode=cjas20)[:arrows_counterclockwise:](https://arxiv.org/abs/1704.06150)[:computer:](https://bioconductor.org/packages/release/bioc/html/coseq.html)
+1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2019) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. *Journal of Applied Statistics*, 46(1):47-65. [:link:](https://dx.doi.org/10.1080/02664763.2018.1454894)[:page_facing_up:](https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1454894?journalCode=cjas20)[:arrows_counterclockwise:](https://arxiv.org/abs/1704.06150)[:computer:](https://bioconductor.org/packages/release/bioc/html/coseq.html)
 
 1. **Rau, A.** and Maugis-Rabusseau, C. (2018) Transformation and model choice for RNA-seq co-expression analysis. *Briefings in Bioinformatics*, bbw128. [:link:](https://dx.doi.org/10.1093/bib/bbw128)[:page_facing_up:](http://academic.oup.com//bib/article/doi/10.1093/bib/bbw128/2870509/Transformation-and-model-choice-for-RNAseq?guestAccessKey=83aebf08-b670-4da2-b227-dc5f5acab354)[:arrows_counterclockwise:](https://www.biorxiv.org/content/early/2016/07/24/065607)[:computer:](https://bioconductor.org/packages/release/bioc/html/coseq.html)
 

@@ -2,7 +2,7 @@
 author: Andrea Rau
 categories:
 - projects
-date: "2023-02-10"
+date: "2025-01-31"
 draft: false
 excerpt: Combining multiple data views for holistic systems biology insights.
 layout: single
@@ -16,7 +16,7 @@ title: Multi-omic data integration
 
 1. **rpl**: Randomized pairwise likelihood method for complex statistical inferences [:link:](https://github.com/andreamrau/rpl)
 1. **padma**: Pathway deviation scores using multiple factor analysis [:link:](https://bioconductor.org/packages/padma/)
-1. **Regeneration Rosetta**: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility [:link:](http://ls-shiny-prod.uwm.edu/rosetta/)
+1. **Regeneration Rosetta**: An R/Shiny interactive web application to explore regeneration-associated gene expression and chromatin accessibility [:link:](https://rosetta.sk8.inrae.fr/)
 1. **maskmeans**: Multi-view aggregation/splitting K-means clustering algorithm [:link:](https://github.com/andreamrau/maskmeans)
 1. **Edge in TCGA**: An R/Shiny interactive web application for the exploration of drivers of gene expression in The Cancer Genome Atlas [:link:](http://ls-shiny-prod.uwm.edu/edge_in_tcga/)
 
@@ -24,13 +24,13 @@ title: Multi-omic data integration
 
 ### Related publications
 
+1. Mazo, G., Karlis, D., and **Rau, A.** (2023) A randomized pairwise likelihood method for complex statistical inferences. *Journal of the American Statistical Association*, 547:2317-2327. [:link:](https://dx.doi.org/10.1080/01621459.2023.2257367)[:arrows_counterclockwise:](https://hal.archives-ouvertes.fr/hal-03126621)[:computer:](https://github.com/andreamrau/rpl)
+
 1. Mollandin, F., Gilbert, H., Croiseau, P., and **Rau, A.** (2022) Accounting for overlapping annotations in genomic prediction models of complex traits. *BMC Bioinformatics*, 23:65. [:link:](https://dx.doi.org/10.1186/s12859-022-04914-5)[:page_facing_up:](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04914-5)[:arrows_counterclockwise:](https://www.researchsquare.com/article/rs-1366477/v1)[:computer:](https://github.com/fmollandin/BayesRCO)
 
-1. Mollandin, F., Gilbert, H., Croiseau, P., and **Rau, A.** (2022) Capitalizing on complex annotations in Bayesian genomic prediction for a backcross population of growing pigs. *12th World Congress on Genetics Applied to Livestock Production (3-8 July 2022)*, Rotterdam, Netherlands.
+1. Mollandin, F., Gilbert, H., Croiseau, P., and **Rau, A.** (2022) Capitalizing on complex annotations in Bayesian genomic prediction for a backcross population of growing pigs. *12th World Congress on Genetics Applied to Livestock Production (3-8 July 2022)*, Rotterdam, Netherlands. [:link:](https://dx.doi.org/10.3920/978-90-8686-940-4_303)[:page_facing_up:](https://www.wageningenacademic.com/doi/epdf/10.3920/978-90-8686-940-4_303?role=tab)
 
 1. **Rau, A.**, Manansala, R., Flister, M. J., Rui, H., Jaffrézic, F., Laloë, D., and Auer, P. L. (2022) Individualized multi-omic pathway deviation scores using multiple factor analysis. *Biostatistics*, 23(2):362-379. [:link:](https://dx.doi.org/10.1093/biostatistics/kxaa029)[:page_facing_up:](https://academic.oup.com/biostatistics/article/23/2/362/5882080?guestAccessKey=fad8d201-b50c-47e5-b4b9-326e5fe62567)[:arrows_counterclockwise:](https://www.biorxiv.org/content/10.1101/827022v2)[:input_numbers:](https://github.com/andreamrau/RMFRJLA_2019)[:computer:](https://bioconductor.org/packages/padma/)
-
-1. Mazo, G., Karlis, D., and **Rau, A.** (2021) A randomized pairwise likelihood method for complex statistical inferences. *NA*, Submitted.[:arrows_counterclockwise:](https://hal.archives-ouvertes.fr/hal-03126621)[:computer:](https://github.com/andreamrau/rpl)
 
 1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2020) Multi-view cluster aggregation and splitting, with an application to multi-omic breast cancer data. *Annals of Applied Statistics*, 14:2, 752-767. [:link:](https://dx.doi.org/10.1214/19-AOAS1317)[:page_facing_up:](https://projecteuclid.org/euclid.aoas/1593449324)[:input_numbers:](https://github.com/andreamrau/maskmeans)
 

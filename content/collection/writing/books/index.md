@@ -1,5 +1,5 @@
 ---
-date: "2023-02-10"
+date: "2025-01-31"
 draft: false
 excerpt:
 subtitle: ""
@@ -7,7 +7,7 @@ title: Books, book chapters & dissertations
 weight: 2
 ---
 
-1. Duranthon, V., Araújo, S., Palma, M., **Rau, A.**, Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. *In: The Genetics and Genomics of the Rabbit*, Ed. L. Fontanesi.
+1. Duranthon, V., Araújo, S., Palma, M., **Rau, A.**, Matzapetakis, M., and Almeida, A. (2021) Rabbit research in the post-genomic era: transcriptome, proteome, and metabolome analysis. *In: The Genetics and Genomics of the Rabbit*, Ed. L. Fontanesi. [:link:](https://dx.doi.org/10.1079/9781780643342.0014)
 
 1. **Rau, A.** (2017) Statistical methods and software for the analysis of transcriptomic data. *HDR thesis*, Université d’Évry Val-d’Essonne.[:page_facing_up:](https://hal.inrae.fr/tel-02786130/document)[:speaking_head:](https://speakerdeck.com/andreamrau/hdr-defense-presentation)
 

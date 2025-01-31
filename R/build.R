@@ -11,9 +11,9 @@ library(grDevices)
 gs4_deauth()
 
 file.copy(from = "C:/Users/araul/Documents/GitHub/CV/Rau_Andrea_CV.pdf",
-          to = "C:/Users/araul/Documents/GitHub/andrea/content/about/Rau_Andrea_CV.pdf")
+          to = "C:/Users/araul/Documents/GitHub/andrea/content/about/Rau_Andrea_CV.pdf", overwrite=TRUE)
 file.copy(from = "C:/Users/araul/Documents/GitHub/CV/visual-CV/Rau_Andrea_visual-CV.png",
-          to = "C:/Users/araul/Documents/GitHub/andrea/content/about/Rau_Andrea_visual-CV.png")
+          to = "C:/Users/araul/Documents/GitHub/andrea/content/about/Rau_Andrea_visual-CV.png", overwrite=TRUE)
 
 ## Graphics --------------------------------------------------------------------
 remake_hex <- FALSE

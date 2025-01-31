@@ -2,7 +2,7 @@
 author: Andrea Rau
 categories:
 - projects
-date: "2023-02-10"
+date: "2025-01-31"
 draft: false
 excerpt: Systems biology approaches to identify dependency networks.
 layout: single

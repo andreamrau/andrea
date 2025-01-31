@@ -1,5 +1,5 @@
 ---
-date: "2023-02-10"
+date: "2025-01-31"
 draft: false
 excerpt:
 subtitle: ""
@@ -7,11 +7,23 @@ title: Peer-reviewed articles
 weight: 1
 ---
 
-1. Noël, A., Dumas, C., Rottier, E., Beslay, D., Costagliola, G., Ginies, C., Nicolè, F., **Rau, A.**, Le Conte, Y., and Mondet, F. (2023) Volatolome of the honey bee (Apis mellifera) worker brood: from egg to emergence. *PLoS ONE*, In press.
+1. Chalabi, S., Loonen, L., Boekhorst, J., Li, H., Fang, L., Harrison, P. W., Lakhal, W., Lluch, J., Sokolov, A., Djebali, S., **Rau, A.**, Giuffra, E.* and Wells, J.* (2025) Differences in maternal diet fiber content influence patterns of gene expression and chromatin accessibility in fetuses and piglets. *Genomics*, 117:2, 110995. [:link:](https://dx.doi.org/10.1016/j.ygeno.2025.110995)[:arrows_counterclockwise:](https://www.biorxiv.org/content/10.1101/2024.08.13.607725v1)
+
+1. Majumdar, K., Silva, R., Perry, A. S., Watson, R. W., **Rau, A.**, Jaffrézic, F., Murphy, T. B., Gormley, I. C. (2024) A novel family of beta mixture models for the differential analysis of DNA methylation data: an application to prostate cancer. *PLoS ONE*, In press. [:link:](https://dx.doi.org/10.1371/journal.pone.0314014)[:arrows_counterclockwise:](https://arxiv.org/abs/2211.01938)
+
+1. Hurtaud, C., Bernard, L., **Rau, A.**, and Cebo, C. (2024) Impact of milking interval and time on milk spontaneous lipolysis and composition in dairy cows. *Journal of Dairy Science*, 107:12, 11697-11707. [:link:](https://dx.doi.org/10.3168/jds.2024-24958)
+
+1. Débare, H., Blanc, F., Piton, G., Leplat, J.-J., Vincent-Naulleau, S., Rivière, J., Vilotte, M., Marthey, S., Lecardonnel, J., Coville, J.-L., Estellé, J., **Rau, A.**, Bournef, E., and Egidy, G. (2024) Malignant features of minipig melanomas prior to spontaneous regression. *Scientific Reports*, 14:9240. [:link:](https://dx.doi.org/10.1038/s41598-024-59741-w)[:page_facing_up:](https://rdcu.be/dFraf)
+
+1. Mazo, G., Karlis, D., and **Rau, A.** (2023) A randomized pairwise likelihood method for complex statistical inferences. *Journal of the American Statistical Association*, 547:2317-2327. [:link:](https://dx.doi.org/10.1080/01621459.2023.2257367)[:arrows_counterclockwise:](https://hal.archives-ouvertes.fr/hal-03126621)[:computer:](https://github.com/andreamrau/rpl)
+
+1. Delosière, M., Bernard, L., Hurtaud, C., Guilleton, M., Viala, D., **Rau, A.**, Bonnet, M. and Cebo, C. (2023) Protein signatures of spontaneous lipolysis and lipoprotein lipase activity in cow’s milk. *Journal of Proteomics*, 285:104951. [:link:](https://dx.doi.org/10.1016/j.jprot.2023.104951)[:page_facing_up:](https://www.sciencedirect.com/science/article/abs/pii/S1874391923001409?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=169749633&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM380756&utm_medium=email&utm_source=AC_)
+
+1. Noël, A., Dumas, C., Rottier, E., Beslay, D., Costagliola, G., Ginies, C., Nicolè, F., **Rau, A.**, Le Conte, Y., and Mondet, F. (2023) Detailed chemical analysis of honey bee (Apis mellifera) worker brood volatile profile from egg to emergence. *PLoS ONE*, 18(2): e0282120. [:link:](https://dx.doi.org/10.1371/journal.pone.0282120)
 
 1. Mollandin, F., Gilbert, H., Croiseau, P., and **Rau, A.** (2022) Accounting for overlapping annotations in genomic prediction models of complex traits. *BMC Bioinformatics*, 23:65. [:link:](https://dx.doi.org/10.1186/s12859-022-04914-5)[:page_facing_up:](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04914-5)[:arrows_counterclockwise:](https://www.researchsquare.com/article/rs-1366477/v1)[:computer:](https://github.com/fmollandin/BayesRCO)
 
-1. Mazurier, M., Drouaud, J., Bahrman, N., **Rau, A.**, Lejeune-Hénaut, I., Delbreil, B., and Legrand, S. (2022) Integrated sRNA-seq and RNA-seq analyses reveal a microRNA regulation network involved in cold response in Pisum sativum L. *Genes*, 13:1119. [:link:](https://dx.doi.org/10.3390/genes13071119)[:page_facing_up:](https://www.mdpi.com/2073-4425/13/7/1119/pdf)
+1. Mazurier, M., Drouaud, J., Bahrman, N., **Rau, A.**, Lejeune-Hénaut, I., Delbreil, B., and Legrand, S. (2022) Integrated sRNA-seq and RNA-seq analyses reveal a microRNA regulation network involved in cold response in Pisum sativum L. *Genes*, 13:1119. [:link:](https://dx.doi.org/10.3390/genes13071119)[:page_facing_up:](https://www.mdpi.com/2073-4425/13/7/1119/pdf?version=1656038843)
 
 1. **Rau, A.**, Passet, B., Castille, J., Asset, A., Lecardonnel, J., Moroldo, M., Jaffrézic, F., Laloë, D., Moazami-Goudarzi, K., and Vilotte, J.-L. (2022) Potential genetic robustness of Prnp and Sprn double knockout mouse embryos towards ShRNA-lentiviral inoculation. *Veterinary Research*, 53:54. [:link:](https://dx.doi.org/10.1186/s13567-022-01075-4)[:arrows_counterclockwise:](https://www.biorxiv.org/content/10.1101/2021.10.22.465458v1)[:input_numbers:](https://data.inrae.fr/privateurl.xhtml?token=e7b8885d-9cef-43c9-ae98-06259ee84d44)
 
@@ -29,11 +41,11 @@ weight: 1
 
 1. Mach, N., Moroldo, M., **Rau, A.**, Lecardonnel, J., Le Moyec, L., Robert, C., and Barrey, E. (2021) Understanding the holobiont: crosstalk between gut microbiota and mitochondria during endurance. *Frontiers Molecular Biosciences*, 8:656204. [:link:](https://dx.doi.org/10.3389/fmolb.2021.656204)[:page_facing_up:](https://www.frontiersin.org/articles/10.3389/fmolb.2021.656204/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Molecular_Biosciences&id=656204)[:arrows_counterclockwise:](https://www.biorxiv.org/content/10.1101/2021.01.08.425889v1)
 
-1. Devogel, N., Auer, P. L., Manansala, R., **Rau, A.**, and Wang, T. (2021) A unified linear mixed model for familial relatedness and population structure in genetic association studies. *Genetic Epidemiology*, 45(3): 305-315. [:link:](https://dx.doi.org/10.1002/gepi.22371)[:page_facing_up:](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22371)
+1. Cho, Y., **Rau, A.**, Reiner, A., Auer, P. L. (2021) Mendelian randomization analysis with survival outcomes. *Genetic Epidemiology*, 45(1): 16-23. [:link:](https://dx.doi.org/10.1002/gepi.22354)[:page_facing_up:](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22354)
 
-1. Cho, Y., **Rau, A.**, Reiner, A., Auer, P. L. (2020) Mendelian randomization analysis with survival outcomes. *Genetic Epidemiology*, 45(1): 16-23. [:link:](https://dx.doi.org/10.1002/gepi.22354)[:page_facing_up:](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22354)
+1. Devogel, N., Auer, P. L., Manansala, R., **Rau, A.**, and Wang, T. (2020) A unified linear mixed model for familial relatedness and population structure in genetic association studies. *Genetic Epidemiology*, 45(3): 305-315. [:link:](https://dx.doi.org/10.1002/gepi.22371)[:page_facing_up:](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22371)
 
-1. Sellem, E., Marthey, S., **Rau, A.**, Jouneau, L., Bonnet, A., Perrier, J.-P., Fritz, S., Le Danvic, C. Boussaha, M., Kiefer, H., Jammes, H., Schiblier, L. (2020) A comprehensive overview of bull sperm-borne small non-coding RNAs and their diversity in six breeds. *Epigenetics and Chromatin*, 13:19. [:link:](https://dx.doi.org/10.1186/s13072-020-00340-0)[:page_facing_up:](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-020-00340-0)
+1. Sellem, E., Marthey, S., **Rau, A.**, Jouneau, L., Bonnet, A., Perrier, J.-P., Fritz, S., Le Danvic, C. Boussaha, M., Kiefer, H., Jammes, H., Schiblier, L. (2020) A comprehensive overview of bull sperm-borne small non-coding RNAs and their diversity across breeds. *Epigenetics and Chromatin*, 13:19. [:link:](https://dx.doi.org/10.1186/s13072-020-00340-0)[:page_facing_up:](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-020-00340-0)
 
 1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2020) Multi-view cluster aggregation and splitting, with an application to multi-omic breast cancer data. *Annals of Applied Statistics*, 14:2, 752-767. [:link:](https://dx.doi.org/10.1214/19-AOAS1317)[:page_facing_up:](https://projecteuclid.org/euclid.aoas/1593449324)[:input_numbers:](https://github.com/andreamrau/maskmeans)
 
@@ -51,7 +63,7 @@ weight: 1
 
 1. **Rau, A.**, Flister, M. J., Rui, H. and Livermore Auer, P. (2019) Exploring drivers of gene expression in The Cancer Genome Atlas. *Bioinformatics*, 35(1): 62-68. [:link:](https://dx.doi.org/10.1093/bioinformatics/bty551)[:page_facing_up:](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty551/5047764)[:arrows_counterclockwise:](https://www.biorxiv.org/content/early/2018/05/02/227926)[:input_numbers:](https://github.com/andreamrau/EDGE-in-TCGA)
 
-1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2018) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. *Journal of Applied Statistics*, 46(1):47-65. [:link:](https://dx.doi.org/10.1080/02664763.2018.1454894)[:page_facing_up:](https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1454894?journalCode=cjas20)[:arrows_counterclockwise:](https://arxiv.org/abs/1704.06150)[:computer:](https://bioconductor.org/packages/release/bioc/html/coseq.html)
+1. Godichon-Baggioni, A., Maugis-Rabusseau, C. and **Rau, A.** (2019) Clustering transformed compositional data using K-means, with applications in gene expression and bicycle sharing system data. *Journal of Applied Statistics*, 46(1):47-65. [:link:](https://dx.doi.org/10.1080/02664763.2018.1454894)[:page_facing_up:](https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1454894?journalCode=cjas20)[:arrows_counterclockwise:](https://arxiv.org/abs/1704.06150)[:computer:](https://bioconductor.org/packages/release/bioc/html/coseq.html)
 
 1. **Rau, A.** and Maugis-Rabusseau, C. (2018) Transformation and model choice for RNA-seq co-expression analysis. *Briefings in Bioinformatics*, bbw128. [:link:](https://dx.doi.org/10.1093/bib/bbw128)[:page_facing_up:](http://academic.oup.com//bib/article/doi/10.1093/bib/bbw128/2870509/Transformation-and-model-choice-for-RNAseq?guestAccessKey=83aebf08-b670-4da2-b227-dc5f5acab354)[:arrows_counterclockwise:](https://www.biorxiv.org/content/early/2016/07/24/065607)[:computer:](https://bioconductor.org/packages/release/bioc/html/coseq.html)
 

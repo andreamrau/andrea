@@ -1,5 +1,5 @@
 ---
-date: "2023-02-10"
+date: "2025-01-31"
 draft: false
 excerpt:
 subtitle:
@@ -7,6 +7,9 @@ title: Software packages
 weight: 1
 ---
 
+1. **RITHMS**: An advanced stochastic framework for the simulation of transgenerational hologenomic data [:link:](https://solenepety.github.io/RITHMS/)
+1. **betaHMM**: A hidden Markov model to identify differential methylation sites and regions from beta-valued methylation data [:link:](https://bioconductor.org/packages/betaHMM/)
+1. **betaclust**: A Family of Beta Mixture Models for Clustering Beta-Valued DNA Methylation Data [:link:](https://cran.r-project.org/web/packages/betaclust/index.html)
 1. **BayesRCO**: Bayesian genomic prediction models for overlapping annotations [:link:](https://github.com/FAANG/BayesRCO)
 1. **rpl**: Randomized pairwise likelihood method for complex statistical inferences [:link:](https://github.com/andreamrau/rpl)
 1. **padma**: Pathway deviation scores using multiple factor analysis [:link:](https://bioconductor.org/packages/padma/)
